@@ -1,0 +1,415 @@
+[May 28 18:59:38 2016][PM] (To: fusion_lumina) : 18:59 died at midald
+[May 28 19:00:03 2016][S] The [Neuschwanstein] castle has been conquered by the [Syntax Error] guild.
+[May 28 19:00:03 2016][S] The [Hohenschwangau] castle has been conquered by the [MouseHunt Gaming.] guild.
+[May 28 19:00:03 2016][S] The [Nuernberg] castle has been conquered by the [Syntax Error] guild.
+[May 28 19:00:03 2016][S] The [Rothenburg] castle has been conquered by the [/\/\ajesty] guild.
+[May 28 19:00:03 2016][S] The [Arbor of Light] castle has been conquered by the [3OO] guild.
+[May 28 19:00:03 2016][S] The [Shadow of Buddha] castle has been conquered by the [3OO] guild.
+[May 28 19:00:03 2016][S] The [Red Palace] castle has been conquered by the [Euphoria] guild.
+[May 28 19:00:03 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [Swanity] guild.
+[May 28 19:00:03 2016][S] The [Jyolbriger] castle has been conquered by the [Swanity] guild.
+[May 28 19:00:03 2016][S] The [Yssnelf] castle has been conquered by the [Swanity] guild.
+[May 28 19:00:03 2016][S] The [Bergell] castle has been conquered by the [Swanity] guild.
+[May 28 19:00:03 2016][S] The [Melcedez] castle has been conquered by the [Swanity] guild.
+[May 28 19:00:03 2016][S] The [Swanhild] castle has been conquered by the [Euphoria] guild.
+[May 28 19:00:03 2016][S] The [Lazreagues] castle has been conquered by the [3OO] guild.
+[May 28 19:00:03 2016][S] The [Skoegul] castle has been conquered by the [Swanity] guild.
+[May 28 19:00:03 2016][S] The [Kendul] castle has been conquered by the [MouseHunt Gaming.] guild.
+[May 28 19:02:12 2016][S] The [Skoegul] castle has been conquered by the [`Swanity] guild.
+[May 28 19:02:56 2016][PM] (To: fusion_lumina) : 19:2 midald no def
+[May 28 19:05:05 2016][S] The [Red Palace] castle has been conquered by the [Hobbits] guild.
+[May 28 19:07:39 2016][PM] (To: fusion_lumina) : 19:7 died at midald
+[May 28 19:07:44 2016][S] The [Nuernberg] castle has been conquered by the [Ravage Reborn] guild.
+[May 28 19:09:16 2016][PM] (To: fusion_lumina) : 19:9 midald no def
+[May 28 19:10:15 2016][S] The [Hohenschwangau] castle has been conquered by the [Syntax Error] guild.
+[May 28 19:10:27 2016][S] The [Kendul] castle has been conquered by the [Ravage Reborn] guild.
+[May 28 19:10:33 2016][S] The [Yssnelf] castle has been conquered by the [/\/\ajesty] guild.
+[May 28 19:10:52 2016][S] The [Swanhild] castle has been conquered by the [Syntax Error] guild.
+[May 28 19:11:08 2016][S] The [Skoegul] castle has been conquered by the [Euphoria] guild.
+[May 28 19:13:11 2016][PM] (To: fusion_lumina) : 19:13 died at midald
+[May 28 19:13:35 2016][PM] (To: fusion_lumina) : 19:13 died at midald
+[May 28 19:14:23 2016][S] The [Melcedez] castle has been conquered by the [/\/\ajesty] guild.
+[May 28 19:15:12 2016][PM] (To: fusion_lumina) : 19:15 midald no def
+[May 28 19:15:14 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [`Swanity] guild.
+[May 28 19:15:28 2016][PM] (To: fusion_lumina) : 19:15 died at midald
+[May 28 19:15:34 2016][S] The [Nuernberg] castle has been conquered by the [Syntax Error] guild.
+[May 28 19:16:08 2016][S] The [Neuschwanstein] castle has been conquered by the [Ravage Reborn] guild.
+[May 28 19:16:21 2016][S] The [Bergell] castle has been conquered by the [~Tropang pLoKz~] guild.
+[May 28 19:17:06 2016][PM] (To: fusion_lumina) : 19:17 midald no def
+[May 28 19:17:47 2016][S] The [Red Palace] castle has been conquered by the [`Swanity] guild.
+[May 28 19:18:22 2016][PM] (To: fusion_lumina) : 19:18 died at midald
+[May 28 19:19:08 2016][PM] (To: fusion_lumina) : 19:19 died at midald
+[May 28 19:19:34 2016][S] The [Skoegul] castle has been conquered by the [Syntax Error] guild.
+[May 28 19:19:58 2016][S] The [Melcedez] castle has been conquered by the [Syntax Error] guild.
+[May 28 19:20:38 2016][PM] (To: fusion_lumina) : 19:20 died at midald
+[May 28 19:20:54 2016][S] The [Hohenschwangau] castle has been conquered by the [/\/\ajesty] guild.
+[May 28 19:21:07 2016][PM] (To: fusion_lumina) : 19:21 died at midald
+[May 28 19:21:12 2016][S] The [Nuernberg] castle has been conquered by the [MouseHunt Gaming.] guild.
+[May 28 19:21:45 2016][S] The [Yssnelf] castle has been conquered by the [Ravage Reborn] guild.
+[May 28 19:22:23 2016][S] The [Lazreagues] castle has been conquered by the [/\/\ajesty] guild.
+[May 28 19:22:44 2016][PM] (To: fusion_lumina) : 19:22 midald no def
+[May 28 19:23:50 2016][S] The [Arbor of Light] castle has been conquered by the [Euphoria] guild.
+[May 28 19:25:47 2016][S] The [Bergell] castle has been conquered by the [Syntax Error] guild.
+[May 28 19:25:53 2016][S] The [Melcedez] castle has been conquered by the [Ravage Reborn] guild.
+[May 28 19:28:06 2016][S] The [Kendul] castle has been conquered by the [/\/\ajesty] guild.
+[May 28 19:28:22 2016][S] The [Skoegul] castle has been conquered by the [~Tropang pLoKz~] guild.
+[May 28 19:28:44 2016][S] The [Rothenburg] castle has been conquered by the [Ravage Reborn] guild.
+[May 28 19:28:44 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [Euphoria] guild.
+[May 28 19:28:46 2016][S] The [Shadow of Buddha] castle has been conquered by the [Euphoria] guild.
+[May 28 19:29:04 2016][S] The [Lazreagues] castle has been conquered by the [Euphoria] guild.
+[May 28 19:29:26 2016][S] The [Hohenschwangau] castle has been conquered by the [MouseHunt Gaming.] guild.
+[May 28 19:29:29 2016][S] The [Bergell] castle has been conquered by the [Euphoria] guild.
+[May 28 19:30:47 2016][S] The [Arbor of Light] castle has been conquered by the [Syntax Error] guild.
+[May 28 19:33:36 2016][S] The [Melcedez] castle has been conquered by the [/\/\ajesty] guild.
+[May 28 19:34:03 2016][S] The [Kendul] castle has been conquered by the [~Tropang pLoKz~] guild.
+[May 28 19:34:17 2016][S] The [Lazreagues] castle has been conquered by the [`Swanity] guild.
+[May 28 19:34:25 2016][S] The [Jyolbriger] castle has been conquered by the [Syntax Error] guild.
+[May 28 19:35:04 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [Ravage Reborn] guild.
+[May 28 19:37:36 2016][S] The [Swanhild] castle has been conquered by the [Euphoria] guild.
+[May 28 19:40:24 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [Syntax Error] guild.
+[May 28 19:42:07 2016][S] The [Bergell] castle has been conquered by the [Ravage Reborn] guild.
+[May 28 19:43:05 2016][S] The [Skoegul] castle has been conquered by the [Euphoria] guild.
+[May 28 19:44:40 2016][S] The [Swanhild] castle has been conquered by the [Syntax Error] guild.
+[May 28 19:44:40 2016][S] The [Red Palace] castle has been conquered by the [Hobbits] guild.
+[May 28 19:45:02 2016][S] The [Yssnelf] castle has been conquered by the [Syntax Error] guild.
+[May 28 19:45:14 2016][S] The [Shadow of Buddha] castle has been conquered by the [3OO] guild.
+[May 28 19:46:01 2016][S] The [Jyolbriger] castle has been conquered by the [Ravage Reborn] guild.
+[May 28 19:46:25 2016][S] The [Bergell] castle has been conquered by the [Syntax Error] guild.
+[May 28 19:48:40 2016][S] The [Hohenschwangau] castle has been conquered by the [Syntax Error] guild.
+[May 28 19:50:06 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [~Tropang pLoKz~] guild.
+[May 28 19:51:05 2016][S] The [Skoegul] castle has been conquered by the [`Swanity] guild.
+[May 28 19:52:24 2016][S] The [Kendul] castle has been conquered by the [Ravage Reborn] guild.
+[May 28 19:52:51 2016][S] The [Red Palace] castle has been conquered by the [Euphoria] guild.
+[May 28 19:54:01 2016][S] The [Yssnelf] castle has been conquered by the [Ravage Reborn] guild.
+[May 28 19:54:49 2016][S] The [Shadow of Buddha] castle has been conquered by the [~Tropang pLoKz~] guild.
+[May 28 19:56:23 2016][S] The [Lazreagues] castle has been conquered by the [Euphoria] guild.
+[May 28 19:57:06 2016][S] The [Melcedez] castle has been conquered by the [Ravage Reborn] guild.
+[May 28 19:57:20 2016][S] The [Red Palace] castle has been conquered by the [`Swanity] guild.
+[May 28 19:58:34 2016][S] The [Lazreagues] castle has been conquered by the [Hobbits] guild.
+[May 28 19:58:41 2016][S] The [Hohenschwangau] castle has been conquered by the [MouseHunt Gaming.] guild.
+[May 28 19:59:45 2016][S] The [Jyolbriger] castle has been conquered by the [~Tropang pLoKz~] guild.
+[May 28 20:01:24 2016][S] The [Bergell] castle has been conquered by the [Ravage Reborn] guild.
+[May 28 20:05:02 2016][PM] (To: fusion_lumina) : 20:5 died at midald
+[May 28 20:05:30 2016][S] The [Arbor of Light] castle has been conquered by the [Euphoria] guild.
+[May 28 20:06:00 2016][S] The [Kendul] castle has been conquered by the [Syntax Error] guild.
+[May 28 20:06:20 2016][PM] (To: fusion_lumina) : 20:6 died at midald
+[May 28 20:06:48 2016][S] The [Swanhild] castle has been conquered by the [Ravage Reborn] guild.
+[May 28 20:07:36 2016][PM] (To: fusion_lumina) : 20:7 died at midald
+[May 28 20:08:35 2016][S] The [Neuschwanstein] castle has been conquered by the [/\/\ajesty] guild.
+[May 28 20:08:59 2016][S] The [Bergell] castle has been conquered by the [Syntax Error] guild.
+[May 28 20:09:13 2016][PM] (To: fusion_lumina) : 20:9 midald no def
+[May 28 20:10:04 2016][S] The [Melcedez] castle has been conquered by the [Syntax Error] guild.
+[May 28 20:11:27 2016][S] The [Kendul] castle has been conquered by the [~Tropang pLoKz~] guild.
+[May 28 20:12:19 2016][S] The [Jyolbriger] castle has been conquered by the [MouseHunt Gaming.] guild.
+[May 28 20:13:01 2016][S] The [Skoegul] castle has been conquered by the [3OO] guild.
+[May 28 20:13:43 2016][PM] (To: fusion_lumina) : 20:13 died at midald
+[May 28 20:14:10 2016][S] The [Yssnelf] castle has been conquered by the [MouseHunt Gaming.] guild.
+[May 28 20:14:55 2016][S] The [Arbor of Light] castle has been conquered by the [Syntax Error] guild.
+[May 28 20:15:04 2016][PM] (To: fusion_lumina) : 20:15 died at midald
+[May 28 20:15:05 2016][S] The [Neuschwanstein] castle has been conquered by the [3OO] guild.
+[May 28 20:16:19 2016][PM] (To: fusion_lumina) : 20:16 died at midald
+[May 28 20:16:25 2016][S] The [Jyolbriger] castle has been conquered by the [Syntax Error] guild.
+[May 28 20:17:34 2016][PM] (To: fusion_lumina) : 20:17 died at midald
+[May 28 20:18:08 2016][S] The [Kendul] castle has been conquered by the [3OO] guild.
+[May 28 20:18:50 2016][PM] (To: fusion_lumina) : 20:18 died at midald
+[May 28 20:19:11 2016][S] May Groove Pack is now available from the item mall
+[May 28 20:20:06 2016][PM] (To: fusion_lumina) : 20:20 died at midald
+[May 28 20:20:49 2016][S] The [Swanhild] castle has been conquered by the [~Tropang pLoKz~] guild.
+[May 28 20:21:26 2016][PM] (To: fusion_lumina) : 20:21 died at midald
+[May 28 20:21:41 2016][S] The [Arbor of Light] castle has been conquered by the [Euphoria] guild.
+[May 28 20:22:41 2016][S] The [Red Palace] castle has been conquered by the [Hobbits] guild.
+[May 28 20:22:45 2016][PM] (To: fusion_lumina) : 20:22 died at midald
+[May 28 20:22:58 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [Syntax Error] guild.
+[May 28 20:24:00 2016][PM] (To: fusion_lumina) : 20:23 died at midald
+[May 28 20:25:17 2016][PM] (To: fusion_lumina) : 20:25 died at midald
+[May 28 20:25:17 2016][S] The [Swanhild] castle has been conquered by the [Euphoria] guild.
+[May 28 20:25:56 2016][S] The [Bergell] castle has been conquered by the [Euphoria] guild.
+[May 28 20:26:37 2016][PM] (To: fusion_lumina) : 20:26 died at midald
+[May 28 20:26:38 2016][S] The [Melcedez] castle has been conquered by the [~Tropang pLoKz~] guild.
+[May 28 20:26:41 2016][S] The [Red Palace] castle has been conquered by the [3OO] guild.
+[May 28 20:27:55 2016][PM] (To: fusion_lumina) : 20:27 died at midald
+[May 28 20:28:51 2016][S] The [Jyolbriger] castle has been conquered by the [MouseHunt Gaming.] guild.
+[May 28 20:29:31 2016][PM] (To: fusion_lumina) : 20:29 died at midald
+[May 28 20:30:45 2016][PM] (To: fusion_lumina) : 20:30 died at midald
+[May 28 20:30:52 2016][S] The [Shadow of Buddha] castle has been conquered by the [Ravage Reborn] guild.
+[May 28 20:31:56 2016][S] The [Lazreagues] castle has been conquered by the [Euphoria] guild.
+[May 28 20:32:06 2016][PM] (To: fusion_lumina) : 20:32 died at midald
+[May 28 20:32:45 2016][S] The [Kendul] castle has been conquered by the [Euphoria] guild.
+[May 28 20:33:27 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [Ravage Reborn] guild.
+[May 28 20:33:38 2016][S] The [Rothenburg] castle has been conquered by the [/\/\ajesty] guild.
+[May 28 20:33:44 2016][PM] (To: fusion_lumina) : 20:33 midald no def
+[May 28 20:35:02 2016][S] The [Lazreagues] castle has been conquered by the [3OO] guild.
+[May 28 20:35:18 2016][S] The [Shadow of Buddha] castle has been conquered by the [Syntax Error] guild.
+[May 28 20:36:32 2016][S] The [Melcedez] castle has been conquered by the [Ravage Reborn] guild.
+[May 28 20:36:45 2016][S] The [Rothenburg] castle has been conquered by the [Euphoria] guild.
+[May 28 20:37:09 2016][S] The [Swanhild] castle has been conquered by the [Syntax Error] guild.
+[May 28 20:39:42 2016][S] The [Melcedez] castle has been conquered by the [/\/\ajesty] guild.
+[May 28 20:40:32 2016][S] The [Kendul] castle has been conquered by the [MouseHunt Gaming.] guild.
+[May 28 20:40:57 2016][S] The [Neuschwanstein] castle has been conquered by the [Euphoria] guild.
+[May 28 20:41:00 2016][S] The [Jyolbriger] castle has been conquered by the [Ravage Reborn] guild.
+[May 28 20:41:17 2016][S] The [Lazreagues] castle has been conquered by the [Hobbits] guild.
+[May 28 20:41:25 2016][S] The [Yssnelf] castle has been conquered by the [~Tropang pLoKz~] guild.
+[May 28 20:42:41 2016][S] The [Bergell] castle has been conquered by the [`Swanity] guild.
+[May 28 20:44:42 2016][S] The [Lazreagues] castle has been conquered by the [Syntax Error] guild.
+[May 28 20:45:21 2016][S] The [Arbor of Light] castle has been conquered by the [`Swanity] guild.
+[May 28 20:46:05 2016][S] The [Kendul] castle has been conquered by the [Euphoria] guild.
+[May 28 20:46:25 2016][S] The [Rothenburg] castle has been conquered by the [3OO] guild.
+[May 28 20:47:46 2016][PM] (To: fusion_lumina) : 20:47 died at midald
+[May 28 20:48:10 2016][S] The [Melcedez] castle has been conquered by the [Syntax Error] guild.
+[May 28 20:48:14 2016][S] The [Red Palace] castle has been conquered by the [Hobbits] guild.
+[May 28 20:48:20 2016][S] The [Yssnelf] castle has been conquered by the [`Swanity] guild.
+[May 28 20:48:28 2016][S] The [Bergell] castle has been conquered by the [Euphoria] guild.
+[May 28 20:49:06 2016][PM] (To: fusion_lumina) : 20:49 died at midald
+[May 28 20:49:46 2016][PM] (To: fusion_lumina) : 20:49 died at midald
+[May 28 20:50:12 2016][PM] (To: fusion_lumina) : 20:50 died at midald
+[May 28 20:50:37 2016][S] The [Swanhild] castle has been conquered by the [Ravage Reborn] guild.
+[May 28 20:50:43 2016][PM] (To: fusion_lumina) : 20:50 died at midald
+[May 28 20:50:58 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [Euphoria] guild.
+[May 28 20:51:48 2016][S] The [Neuschwanstein] castle has been conquered by the [3OO] guild.
+[May 28 20:52:07 2016][PM] (To: fusion_lumina) : 20:52 died at midald
+[May 28 20:52:36 2016][PM] (To: fusion_lumina) : 20:52 died at midald
+[May 28 20:52:44 2016][S] The [Kendul] castle has been conquered by the [Syntax Error] guild.
+[May 28 20:53:39 2016][S] The [Nuernberg] castle has been conquered by the [Hobbits] guild.
+[May 28 20:54:04 2016][S] The [Skoegul] castle has been conquered by the [Euphoria] guild.
+[May 28 20:54:59 2016][PM] (To: fusion_lumina) : 20:54 died at midald
+[May 28 20:55:25 2016][S] The [Bergell] castle has been conquered by the [3OO] guild.
+[May 28 20:55:52 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [`Swanity] guild.
+[May 28 20:55:55 2016][PM] (To: fusion_lumina) : 20:55 died at midald
+[May 28 20:56:05 2016][S] The [Lazreagues] castle has been conquered by the [Ravage Reborn] guild.
+[May 28 20:56:22 2016][PM] (To: fusion_lumina) : 20:56 died at midald
+[May 28 20:56:40 2016][S] The [Swanhild] castle has been conquered by the [Syntax Error] guild.
+[May 28 20:57:26 2016][S] The [Jyolbriger] castle has been conquered by the [Euphoria] guild.
+[May 28 20:57:55 2016][PM] (To: fusion_lumina) : 20:57 died at midald
+[May 28 20:58:14 2016][S] The [Skoegul] castle has been conquered by the [Syntax Error] guild.
+[May 28 20:58:22 2016][S] The [Shadow of Buddha] castle has been conquered by the [~Tropang pLoKz~] guild.
+[May 28 20:58:22 2016][S] The [Melcedez] castle has been conquered by the [Euphoria] guild.
+[May 28 20:58:39 2016][S] The [Kendul] castle has been conquered by the [/\/\ajesty] guild.
+[May 28 20:58:44 2016][PM] (To: fusion_lumina) : 20:58 died at midald
+[May 28 20:58:58 2016][S] The [Nuernberg] castle has been conquered by the [MouseHunt Gaming.] guild.
+[May 28 20:59:32 2016][S] The [Red Palace] castle has been conquered by the [`Swanity] guild.
+[May 28 21:00:00 2016][LB] The emperium has been destroyed.
+[May 28 21:00:00 2016][S] The [Neuschwanstein] castle has been conquered by the [3OO] guild.
+[May 28 21:00:00 2016][S] The [Hohenschwangau] castle has been conquered by the [MouseHunt Gaming.] guild.
+[May 28 21:00:01 2016][S] The [Nuernberg] castle has been conquered by the [MouseHunt Gaming.] guild.
+[May 28 21:00:01 2016][S] The [Rothenburg] castle has been conquered by the [3OO] guild.
+[May 28 21:00:01 2016][S] The [Arbor of Light] castle has been conquered by the [`Swanity] guild.
+[May 28 21:00:01 2016][S] The [Shadow of Buddha] castle has been conquered by the [~Tropang pLoKz~] guild.
+[May 28 21:00:01 2016][S] The [Red Palace] castle has been conquered by the [`Swanity] guild.
+[May 28 21:00:01 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [`Swanity] guild.
+[May 28 21:00:03 2016][S] The [Jyolbriger] castle has been conquered by the [Euphoria] guild.
+[May 28 21:00:03 2016][S] The [Yssnelf] castle has been conquered by the [`Swanity] guild.
+[May 28 21:00:03 2016][S] The [Bergell] castle has been conquered by the [3OO] guild.
+[May 28 21:00:03 2016][S] The [Melcedez] castle has been conquered by the [Euphoria] guild.
+[May 28 21:00:03 2016][S] The [Swanhild] castle has been conquered by the [Syntax Error] guild.
+[May 28 21:00:03 2016][S] The [Lazreagues] castle has been conquered by the [Ravage Reborn] guild.
+[May 28 21:00:03 2016][S] The [Skoegul] castle has been conquered by the [Syntax Error] guild.
+[May 28 21:00:03 2016][S] The [Kendul] castle has been conquered by the [/\/\ajesty] guild.
+[May 28 21:00:21 2016][PM] (To: fusion_lumina) : 21:0 midald no def
+[Jun 4 14:37:08 2016][PM] (To: fusion_lumina) : 14:37 midald no def
+[Jun 4 15:19:50 2016][PM] (To: fusion_lumina) : 15:19 died at midald
+[Jun 4 15:21:26 2016][PM] (To: fusion_lumina) : 15:21 midald no def
+[Jun 4 15:30:01 2016][S] The No. 6 statement is now available. You can check through Investment Status Board on each WOE area.
+[Jun 4 19:14:53 2016][PM] (To: fusion_lumina) : 19:14 died at midald
+[Jun 4 19:15:31 2016][S] The [Arbor of Light] castle has been conquered by the [/\/\ajesty] guild.
+[Jun 4 19:28:33 2016][PM] (To: fusion_lumina) : 19:28 died at midald
+[Jun 4 19:28:57 2016][PM] (To: fusion_lumina) : midald Player -=[-]_ArJiE_[-]=- (0) MouseHunt Gaming.
+[Jun 4 19:29:12 2016][PM] (To: fusion_lumina) : 19:29 died at midald
+[Jun 4 19:29:56 2016][PM] (To: fusion_lumina) : midald Player Invictus Luminarium (0) MouseHunt Gaming.
+[Jun 4 19:30:16 2016][S] The [Nuernberg] castle has been conquered by the [Ravage Reborn] guild.
+[Jun 4 19:30:35 2016][PM] (To: fusion_lumina) : midald Player -=[-]_ArJiE_[-]=- (0) MouseHunt Gaming.
+[Jun 4 19:31:22 2016][PM] (To: fusion_lumina) : midald Player Decimal (0) MouseHunt Gaming.
+[Jun 4 19:31:29 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [3OO] guild.
+[Jun 4 19:57:42 2016][S] The [Melcedez] castle has been conquered by the [Syntax Error] guild.
+[Jun 4 19:58:56 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [Ravage Reborn] guild.
+[Jun 4 19:58:58 2016][S] The [Neuschwanstein] castle has been conquered by the [~Tropang pLoKz~] guild.
+[Jun 4 19:58:59 2016][S] The [Lazreagues] castle has been conquered by the [Swanity] guild.
+[Jun 4 19:59:57 2016][S] The [Shadow of Buddha] castle has been conquered by the [Syntax Error] guild.
+[Jun 4 20:00:00 2016][S] The [Swanhild] castle has been conquered by the [/\/\ajesty] guild.
+[Jun 4 20:00:30 2016][S] The [Arbor of Light] castle has been conquered by the [Fall of Darkness] guild.
+[Jun 4 20:02:35 2016][S] The [Yssnelf] castle has been conquered by the [Syntax Error] guild.
+[Jun 4 20:04:09 2016][S] The [Bergell] castle has been conquered by the [/\/\ajesty] guild.
+[Jun 4 20:04:31 2016][S] The [Swanhild] castle has been conquered by the [~Tropang pLoKz~] guild.
+[Jun 4 20:06:26 2016][S] The [Neuschwanstein] castle has been conquered by the [Tartaros] guild.
+[Jun 4 20:07:20 2016][S] The [Skoegul] castle has been conquered by the [Ravage Reborn] guild.
+[Jun 4 20:07:23 2016][S] The [Jyolbriger] castle has been conquered by the [Hobbits] guild.
+[Jun 4 20:07:39 2016][LB] The emperium has been destroyed.
+[Jun 4 20:07:39 2016][S] The [Nuernberg] castle has been conquered by the [MouseHunt Gaming.] guild.
+[Jun 4 20:07:41 2016][S] The [Arbor of Light] castle has been conquered by the [/\/\ajesty] guild.
+[Jun 4 20:08:59 2016][S] The [Red Palace] castle has been conquered by the [Euphoria] guild.
+[Jun 4 20:13:03 2016][S] The [Red Palace] castle has been conquered by the [3OO] guild.
+[Jun 4 20:13:13 2016][S] The [Arbor of Light] castle has been conquered by the [~Tropang pLoKz~] guild.
+[Jun 4 20:13:19 2016][S] The [Swanhild] castle has been conquered by the [/\/\ajesty] guild.
+[Jun 4 20:13:54 2016][S] The [Bergell] castle has been conquered by the [Euphoria] guild.
+[Jun 4 20:14:58 2016][S] The [Shadow of Buddha] castle has been conquered by the [Ravage Reborn] guild.
+[Jun 4 20:16:41 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [Euphoria] guild.
+[Jun 4 20:16:47 2016][S] The [Lazreagues] castle has been conquered by the [Hobbits] guild.
+[Jun 4 20:18:52 2016][S] The [Arbor of Light] castle has been conquered by the [Euphoria] guild.
+[Jun 4 20:19:36 2016][S] The [Rothenburg] castle has been conquered by the [/\/\ajesty] guild.
+[Jun 4 20:20:23 2016][S] The [Jyolbriger] castle has been conquered by the [~Tropang pLoKz~] guild.
+[Jun 4 20:20:37 2016][S] The [Lazreagues] castle has been conquered by the [Swanity] guild.
+[Jun 4 20:20:57 2016][S] The [Swanhild] castle has been conquered by the [Ravage Reborn] guild.
+[Jun 4 20:24:36 2016][S] The [Red Palace] castle has been conquered by the [Hobbits] guild.
+[Jun 4 20:24:43 2016][S] The [Swanhild] castle has been conquered by the [Syntax Error] guild.
+[Jun 4 20:25:02 2016][S] The [Neuschwanstein] castle has been conquered by the [Ravage Reborn] guild.
+[Jun 4 20:25:09 2016][S] The [Skoegul] castle has been conquered by the [Syntax Error] guild.
+[Jun 4 20:26:18 2016][S] The [Yssnelf] castle has been conquered by the [~Tropang pLoKz~] guild.
+[Jun 4 20:28:33 2016][S] The [Kendul] castle has been conquered by the [Syntax Error] guild.
+[Jun 4 20:28:33 2016][S] The [Shadow of Buddha] castle has been conquered by the [Euphoria] guild.
+[Jun 4 20:28:41 2016][S] The [Bergell] castle has been conquered by the [~Tropang pLoKz~] guild.
+[Jun 4 20:28:42 2016][S] The [Red Palace] castle has been conquered by the [Swanity] guild.
+[Jun 4 20:28:45 2016][S] The [Lazreagues] castle has been conquered by the [Hobbits] guild.
+[Jun 4 20:32:31 2016][S] The [Arbor of Light] castle has been conquered by the [~Tropang pLoKz~] guild.
+[Jun 4 20:32:57 2016][S] The [Rothenburg] castle has been conquered by the [Ravage Reborn] guild.
+[Jun 4 20:33:27 2016][S] The [Hohenschwangau] castle has been conquered by the [Tartaros] guild.
+[Jun 4 20:33:51 2016][S] The [Yssnelf] castle has been conquered by the [Syntax Error] guild.
+[Jun 4 20:35:58 2016][S] The [Kendul] castle has been conquered by the [Ravage Reborn] guild.
+[Jun 4 20:36:08 2016][S] The [Bergell] castle has been conquered by the [/\/\ajesty] guild.
+[Jun 4 20:36:10 2016][PM] (To: fusion_lumina) : 20:36 midald no def
+[Jun 4 20:36:24 2016][S] The [Nuernberg] castle has been conquered by the [/\/\ajesty] guild.
+[Jun 4 20:36:44 2016][S] The [Jyolbriger] castle has been conquered by the [Syntax Error] guild.
+[Jun 4 20:37:35 2016][S] The [Red Palace] castle has been conquered by the [Euphoria] guild.
+[Jun 4 20:39:49 2016][S] The [Yssnelf] castle has been conquered by the [TheNoblesse] guild.
+[Jun 4 20:39:56 2016][S] The [Rothenburg] castle has been conquered by the [MouseHunt Gaming.] guild.
+[Jun 4 20:41:17 2016][S] The [Melcedez] castle has been conquered by the [/\/\ajesty] guild.
+[Jun 4 20:41:50 2016][S] The [Hohenschwangau] castle has been conquered by the [~Tropang pLoKz~] guild.
+[Jun 4 20:42:50 2016][S] The [Kendul] castle has been conquered by the [Syntax Error] guild.
+[Jun 4 20:43:52 2016][S] The [Arbor of Light] castle has been conquered by the [Syntax Error] guild.
+[Jun 4 20:44:07 2016][S] The [Lazreagues] castle has been conquered by the [Swanity] guild.
+[Jun 4 20:45:13 2016][S] The [Jyolbriger] castle has been conquered by the [~Tropang pLoKz~] guild.
+[Jun 4 20:45:46 2016][S] The [Bergell] castle has been conquered by the [~Tropang pLoKz~] guild.
+[Jun 4 20:45:56 2016][S] The [Nuernberg] castle has been conquered by the [Syntax Error] guild.
+[Jun 4 20:47:00 2016][S] The [Neuschwanstein] castle has been conquered by the [Syntax Error] guild.
+[Jun 4 20:47:57 2016][S] The [Swanhild] castle has been conquered by the [/\/\ajesty] guild.
+[Jun 4 20:48:45 2016][S] The [Skoegul] castle has been conquered by the [Ravage Reborn] guild.
+[Jun 4 20:49:05 2016][S] The [Hohenschwangau] castle has been conquered by the [/\/\ajesty] guild.
+[Jun 4 20:49:37 2016][S] The [Red Palace] castle has been conquered by the [Hobbits] guild.
+[Jun 4 20:50:36 2016][S] The [Bergell] castle has been conquered by the [Swanity] guild.
+[Jun 4 20:51:26 2016][S] The [Arbor of Light] castle has been conquered by the [Hobbits] guild.
+[Jun 4 20:52:16 2016][S] The [Rothenburg] castle has been conquered by the [/\/\ajesty] guild.
+[Jun 4 20:52:24 2016][S] The [Hohenschwangau] castle has been conquered by the [Syntax Error] guild.
+[Jun 4 20:53:09 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [3OO] guild.
+[Jun 4 20:54:05 2016][S] The [Neuschwanstein] castle has been conquered by the [MouseHunt Gaming.] guild.
+[Jun 4 20:54:06 2016][S] The [Bergell] castle has been conquered by the [Euphoria] guild.
+[Jun 4 20:54:18 2016][S] The [Swanhild] castle has been conquered by the [Swanity] guild.
+[Jun 4 20:54:44 2016][S] The [Melcedez] castle has been conquered by the [Ravage Reborn] guild.
+[Jun 4 20:55:00 2016][S] The [Jyolbriger] castle has been conquered by the [Euphoria] guild.
+[Jun 4 20:56:14 2016][S] The [Shadow of Buddha] castle has been conquered by the [Night Raid] guild.
+[Jun 4 20:57:42 2016][S] The [Arbor of Light] castle has been conquered by the [~Tropang pLoKz~] guild.
+[Jun 4 20:57:58 2016][S] The [Rothenburg] castle has been conquered by the [Syntax Error] guild.
+[Jun 4 20:58:48 2016][S] The [Kendul] castle has been conquered by the [/\/\ajesty] guild.
+[Jun 4 20:58:52 2016][S] The [Nuernberg] castle has been conquered by the [MouseHunt Gaming.] guild.
+[Jun 4 20:59:51 2016][S] The [Yssnelf] castle has been conquered by the [Swanity] guild.
+[Jun 4 20:59:51 2016][S] The [Shadow of Buddha] castle has been conquered by the [Ravage Reborn] guild.
+[Jun 4 21:00:01 2016][S] The [Jyolbriger] castle has been conquered by the [Euphoria] guild.
+[Jun 4 21:00:01 2016][S] The [Yssnelf] castle has been conquered by the [Swanity] guild.
+[Jun 4 21:00:01 2016][S] The [Bergell] castle has been conquered by the [Euphoria] guild.
+[Jun 4 21:00:01 2016][S] The [Melcedez] castle has been conquered by the [Ravage Reborn] guild.
+[Jun 4 21:00:01 2016][S] The [Swanhild] castle has been conquered by the [Swanity] guild.
+[Jun 4 21:00:01 2016][S] The [Lazreagues] castle has been conquered by the [Swanity] guild.
+[Jun 4 21:00:01 2016][S] The [Skoegul] castle has been conquered by the [Ravage Reborn] guild.
+[Jun 4 21:00:01 2016][S] The [Kendul] castle has been conquered by the [/\/\ajesty] guild.
+[Jun 4 21:00:03 2016][LB] The emperium has been destroyed.
+[Jun 4 21:00:03 2016][S] The [Neuschwanstein] castle has been conquered by the [MouseHunt Gaming.] guild.
+[Jun 4 21:00:03 2016][S] The [Hohenschwangau] castle has been conquered by the [Syntax Error] guild.
+[Jun 4 21:00:03 2016][S] The [Nuernberg] castle has been conquered by the [MouseHunt Gaming.] guild.
+[Jun 4 21:00:03 2016][S] The [Rothenburg] castle has been conquered by the [Syntax Error] guild.
+[Jun 4 21:00:03 2016][S] The [Arbor of Light] castle has been conquered by the [~Tropang pLoKz~] guild.
+[Jun 4 21:00:03 2016][S] The [Shadow of Buddha] castle has been conquered by the [Ravage Reborn] guild.
+[Jun 4 21:00:03 2016][S] The [Red Palace] castle has been conquered by the [Hobbits] guild.
+[Jun 4 21:00:03 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [3OO] guild.
+[Jul 2 20:34:52 2016][PM] (To: fusion_lumina) : 20:34 died at midald
+[Jul 2 20:35:21 2016][S] The [Rothenburg] castle has been conquered by the [Ravage Reborn] guild.
+[Jul 2 20:35:28 2016][S] The [Swanhild] castle has been conquered by the [Syntax Error] guild.
+[Jul 2 20:35:36 2016][PM] (To: fusion_lumina) : 20:35 died at midald
+[Jul 2 20:35:39 2016][S] The [Hohenschwangau] castle has been conquered by the [MouseHunt Gaming.] guild.
+[Jul 2 20:35:41 2016][S] The [Nuernberg] castle has been conquered by the [Ravage Reborn] guild.
+[Jul 2 20:37:13 2016][PM] (To: fusion_lumina) : 20:37 midald no def
+[Jul 2 20:37:25 2016][S] The [Kendul] castle has been conquered by the [Ravage Reborn] guild.
+[Jul 2 20:40:19 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [Syntax Error] guild.
+[Jul 2 20:40:19 2016][PM] (To: fusion_lumina) : 20:40 died at midald
+[Jul 2 20:40:21 2016][S] The [Bergell] castle has been conquered by the [Swanity] guild.
+[Jul 2 20:40:27 2016][S] The [Lazreagues] castle has been conquered by the [3OO] guild.
+[Jul 2 20:41:54 2016][PM] (To: fusion_lumina) : 20:41 midald no def
+[Jul 2 20:43:02 2016][S] The [Yssnelf] castle has been conquered by the [3OO] guild.
+[Jul 2 20:43:30 2016][PM] (To: fusion_lumina) : midald Player c0rnstar (0) Syntax Error
+[Jul 2 20:43:42 2016][S] The [Arbor of Light] castle has been conquered by the [Euphoria] guild.
+[Jul 2 20:43:42 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [Ravage Reborn] guild.
+[Jul 2 20:43:44 2016][S] The [Jyolbriger] castle has been conquered by the [Swanity] guild.
+[Jul 2 20:43:45 2016][PM] (To: fusion_lumina) : midald Player c0rnstar (0) Syntax Error
+[Jul 2 20:43:50 2016][S] The [Rothenburg] castle has been conquered by the [/\/\ajesty] guild.
+[Jul 2 20:44:00 2016][PM] (To: fusion_lumina) : midald Player c0rnstar (0) Syntax Error
+[Jul 2 20:44:01 2016][PM] (To: fusion_lumina) : midald Player [B]a[B]y`~IFRIT`~ (1) Hobbits
+[Jul 2 20:44:02 2016][PM] (To: fusion_lumina) : midald Player ''r0k0r0ko" (2) Syntax Error
+[Jul 2 20:44:15 2016][PM] (To: fusion_lumina) : midald Player c0rnstar (0) Syntax Error
+[Jul 2 20:44:16 2016][PM] (To: fusion_lumina) : midald Player [B]a[B]y`~IFRIT`~ (1) Hobbits
+[Jul 2 20:44:17 2016][PM] (To: fusion_lumina) : midald Player ''r0k0r0ko" (2) Syntax Error
+[Jul 2 20:44:18 2016][PM] (To: fusion_lumina) : midald Player fusion_lumina (3) Syntax Error
+[Jul 2 20:44:30 2016][PM] (To: fusion_lumina) : midald Player c0rnstar (0) Syntax Error
+[Jul 2 20:44:31 2016][PM] (To: fusion_lumina) : midald Player [B]a[B]y`~IFRIT`~ (1) Hobbits
+[Jul 2 20:44:32 2016][PM] (To: fusion_lumina) : midald Player ''r0k0r0ko" (2) Syntax Error
+[Jul 2 20:44:33 2016][PM] (To: fusion_lumina) : midald Player fusion_lumina (3) Syntax Error
+[Jul 2 20:44:45 2016][PM] (To: fusion_lumina) : midald Player c0rnstar (0) Syntax Error
+[Jul 2 20:44:46 2016][PM] (To: fusion_lumina) : midald Player [B]a[B]y`~IFRIT`~ (1) Hobbits
+[Jul 2 20:44:47 2016][PM] (To: fusion_lumina) : midald Player ''r0k0r0ko" (2) Syntax Error
+[Jul 2 20:44:48 2016][PM] (To: fusion_lumina) : midald Player fusion_lumina (3) Syntax Error
+[Jul 2 20:45:00 2016][PM] (To: fusion_lumina) : midald Player c0rnstar (0) Syntax Error
+[Jul 2 20:45:01 2016][PM] (To: fusion_lumina) : midald Player [B]a[B]y`~IFRIT`~ (1) Hobbits
+[Jul 2 20:45:02 2016][PM] (To: fusion_lumina) : midald Player ''r0k0r0ko" (2) Syntax Error
+[Jul 2 20:45:03 2016][PM] (To: fusion_lumina) : midald Player fusion_lumina (3) Syntax Error
+[Jul 2 20:45:04 2016][PM] (To: fusion_lumina) : midald Player ` Andrei (4) Hobbits
+[Jul 2 20:45:15 2016][PM] (To: fusion_lumina) : midald Player c0rnstar (0) Syntax Error
+[Jul 2 20:45:16 2016][PM] (To: fusion_lumina) : midald Player [B]a[B]y`~IFRIT`~ (1) Hobbits
+[Jul 2 20:45:17 2016][PM] (To: fusion_lumina) : midald Player ''r0k0r0ko" (2) Syntax Error
+[Jul 2 20:45:18 2016][PM] (To: fusion_lumina) : midald Player fusion_lumina (3) Syntax Error
+[Jul 2 20:45:19 2016][PM] (To: fusion_lumina) : midald Player ` Andrei (4) Hobbits
+[Jul 2 20:45:22 2016][PM] (To: fusion_lumina) : 20:45 died at midald
+[Jul 2 20:45:26 2016][S] The [Nuernberg] castle has been conquered by the [Syntax Error] guild.
+[Jul 2 20:45:55 2016][S] The [Lazreagues] castle has been conquered by the [Ravage Reborn] guild.
+[Jul 2 20:46:13 2016][S] The [Arbor of Light] castle has been conquered by the [3OO] guild.
+[Jul 2 20:46:59 2016][PM] (To: fusion_lumina) : 20:46 midald no def
+[Jul 2 20:47:09 2016][PM] (To: fusion_lumina) : midald Player [3lack Ranger (0) Ravage Reborn
+[Jul 2 20:47:24 2016][PM] (To: fusion_lumina) : midald Player [3lack Ranger (0) Ravage Reborn
+[Jul 2 20:47:39 2016][PM] (To: fusion_lumina) : midald Player [3lack Ranger (0) Ravage Reborn
+[Jul 2 20:47:51 2016][S] The [Rothenburg] castle has been conquered by the [Ravage Reborn] guild.
+[Jul 2 20:47:53 2016][PM] (To: fusion_lumina) : midald Player [3lack Ranger (0) Ravage Reborn
+[Jul 2 20:48:08 2016][PM] (To: fusion_lumina) : midald Player [3lack Ranger (0) Ravage Reborn
+[Jul 2 20:48:23 2016][PM] (To: fusion_lumina) : midald Player [3lack Ranger (0) Ravage Reborn
+[Jul 2 20:48:24 2016][PM] (To: fusion_lumina) : midald Player Masked.Uchiha (1) /\/\ajesty
+[Jul 2 20:48:25 2016][S] The [Skoegul] castle has been conquered by the [Swanity] guild.
+[Jul 2 20:48:38 2016][PM] (To: fusion_lumina) : midald Player Aslatiel` (0) /\/\ajesty
+[Jul 2 20:48:39 2016][PM] (To: fusion_lumina) : midald Player aleeya (1) /\/\ajesty
+[Jul 2 20:48:52 2016][PM] (To: fusion_lumina) : midald Player Aslatiel` (0) /\/\ajesty
+[Jul 2 20:48:53 2016][PM] (To: fusion_lumina) : midald Player aleeya (1) /\/\ajesty
+[Jul 2 20:50:58 2016][PM] (To: fusion_lumina) : 20:50 died at midald
+[Jul 2 20:51:02 2016][S] The [Nuernberg] castle has been conquered by the [Ravage Reborn] guild.
+[Jul 2 20:51:52 2016][PM] (To: fusion_lumina) : 20:51 died at midald
+[Jul 2 20:52:32 2016][S] The [Lazreagues] castle has been conquered by the [Syntax Error] guild.
+[Jul 2 20:53:09 2016][S] The [Swanhild] castle has been conquered by the [Swanity] guild.
+[Jul 2 20:53:15 2016][S] The [Red Palace] castle has been conquered by the [Euphoria] guild.
+[Jul 2 20:53:49 2016][PM] (To: fusion_lumina) : 20:53 died at midald
+[Jul 2 20:53:55 2016][S] The [Nuernberg] castle has been conquered by the [/\/\ajesty] guild.
+[Jul 2 20:53:55 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [3OO] guild.
+[Jul 2 20:54:42 2016][S] The [Yssnelf] castle has been conquered by the [Ravage Reborn] guild.
+[Jul 2 20:55:10 2016][PM] (To: fusion_lumina) : 20:55 died at midald
+[Jul 2 20:57:57 2016][PM] (To: fusion_lumina) : 20:57 died at midald
+[Jul 2 20:58:26 2016][S] The [Neuschwanstein] castle has been conquered by the [MouseHunt Gaming.] guild.
+[Jul 2 20:58:48 2016][S] The [Yssnelf] castle has been conquered by the [Swanity] guild.
+[Jul 2 20:59:33 2016][PM] (To: fusion_lumina) : 20:59 midald no def
+[Jul 2 20:59:37 2016][PM] (To: fusion_lumina) : 20:59 died at midald
+[Jul 2 21:00:02 2016][S] The [Jyolbriger] castle has been conquered by the [Swanity] guild.
+[Jul 2 21:00:02 2016][S] The [Yssnelf] castle has been conquered by the [Swanity] guild.
+[Jul 2 21:00:02 2016][S] The [Bergell] castle has been conquered by the [Swanity] guild.
+[Jul 2 21:00:02 2016][S] The [Melcedez] castle has been conquered by the [Ravage Reborn] guild.
+[Jul 2 21:00:02 2016][S] The [Swanhild] castle has been conquered by the [Swanity] guild.
+[Jul 2 21:00:02 2016][S] The [Lazreagues] castle has been conquered by the [Syntax Error] guild.
+[Jul 2 21:00:02 2016][S] The [Skoegul] castle has been conquered by the [Swanity] guild.
+[Jul 2 21:00:02 2016][S] The [Kendul] castle has been conquered by the [Swanity] guild.
+[Jul 2 21:00:03 2016][LB] The emperium has been destroyed.
+[Jul 2 21:00:03 2016][S] The [Neuschwanstein] castle has been conquered by the [MouseHunt Gaming.] guild.
+[Jul 2 21:00:03 2016][S] The [Hohenschwangau] castle has been conquered by the [MouseHunt Gaming.] guild.
+[Jul 2 21:00:03 2016][S] The [Nuernberg] castle has been conquered by the [/\/\ajesty] guild.
+[Jul 2 21:00:03 2016][S] The [Rothenburg] castle has been conquered by the [Syntax Error] guild.
+[Jul 2 21:00:03 2016][S] The [Arbor of Light] castle has been conquered by the [3OO] guild.
+[Jul 2 21:00:03 2016][S] The [Shadow of Buddha] castle has been conquered by the [Ravage Reborn] guild.
+[Jul 2 21:00:03 2016][S] The [Red Palace] castle has been conquered by the [Euphoria] guild.
+[Jul 2 21:00:03 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [3OO] guild.

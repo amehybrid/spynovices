@@ -1,0 +1,1 @@
+perl openkore.pl --control=./controlmidprt

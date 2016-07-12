@@ -1,0 +1,27 @@
+OpenKore version what-will-become-2.1
+@ai_seq = clientSuspend
+Network state = 5
+Network handler = Network::XKore
+SVN revision: 8954
+Loaded plugins:
+  plugins/macro/macro.pl (macro; description: allows usage of macros)
+
+Error message:
+Attempt to STORE non blessed reference (or not a reference)
+Value:
+$VAR1 = undef;
+
+Stack trace:
+Attempt to STORE non blessed reference (or not a reference)
+Value:
+$VAR1 = undef;
+ at src/Utils/BlessedRefTie.pm line 10
+	Tie::BlessedRef::STORE('Tie::BlessedRef=REF(0x5df74cc)', undef) called at src/Network/Receive/ServerType0.pm line 1091
+	Network::Receive::ServerType0::map_loaded('Network::Receive::iRO=HASH(0x5bd3df4)', 'HASH(0x630e464)') called at src/Network/PacketParser.pm line 267
+	Network::PacketParser::parse('Network::Receive::iRO=HASH(0x5bd3df4)', '\x{eb}\x{2}\x{b8}\x{be}\x{3}\x{7}(C\x{a0}\x{5}\x{5}\x{0}\x{0}', 'Network::Receive::iRO=HASH(0x5bd3df4)') called at src/Network/Receive.pm line 68
+	Network::Receive::parse('Network::Receive::iRO=HASH(0x5bd3df4)', '\x{eb}\x{2}\x{b8}\x{be}\x{3}\x{7}(C\x{a0}\x{5}\x{5}\x{0}\x{0}', 'Network::Receive::iRO=HASH(0x5bd3df4)') called at src/Network/PacketParser.pm line 401
+	Network::PacketParser::process('Network::Receive::iRO=HASH(0x5bd3df4)', 'Network::MessageTokenizer=HASH(0x3409564)', 'Network::Receive::iRO=HASH(0x5bd3df4)') called at src/functions.pl line 725
+	main::mainLoop_initialized() called at src/functions.pl line 70
+	main::mainLoop() called at src/Interface.pm line 75
+	Interface::mainLoop('Interface::Console::Win32=HASH(0x24a0b7c)') called at openkore.pl line 97
+	main::__start() called at start.pl line 136

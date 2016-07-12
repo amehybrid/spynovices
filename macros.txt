@@ -1,0 +1,286 @@
+﻿automacro autoBuffs {
+console /\[dist=(.*)\] (.*) \((\d+)\): (.*)(Peace)(.*)$/
+	run-once 1
+	priority 2
+	call Buffs
+}
+
+macro Buffs {
+	$distance =  $.lastMatch1
+#	$name = $.lastMatch2
+	$playerID = $.lastMatch3
+#	$trigger = $.lastMatch4
+#	$job = @eval ($::players{$::playersID[$playerID]}->{jobID})
+	$playerguild = @eval (exists $::players{$::playersID[$playerID]}->{guild} ? $::players{$::playersID[$playerID]}->{guild}{name} : 'null')
+	$x = @eval ($::players{$::playersID[$.lastMatch3]}->{pos_to}{x})
+	$y = @eval ($::players{$::playersID[$.lastMatch3]}->{pos_to}{y})
+	
+	$guild = Adv.Of Angels Ft.Sanko
+	$guild2 = Adv.of Angels ft.Sanko
+
+	$castRange = 9
+
+	if ($playerguild = null) {
+		release autoBuffs
+	}
+
+	if ( ($playerguild = $guild) || ($playerguild = $guild2) ) {
+		call checkDist
+	}
+	release autoBuffs
+}
+
+macro checkDist {
+	if ($distance > $castRange) call getNear
+	
+	call skillBuffs
+}
+
+macro getNear {
+	$x2 = @eval($x+1)
+	$y2 = @eval($y+1)
+	do move $x2 $y2
+}
+
+
+macro skillBuffs {
+	#blessing
+	do sp Blessing "$name"
+	pause .5
+	#agi up
+	do sp 29 "$name"
+	pause .5
+	#sacrament
+	do sp 2515 "$name"
+	pause .5
+
+	#impositionmanus
+	#do sp 66 "$name"
+	#pause 1
+	#renovatio
+	#do sp 2050 "$name"
+	#pause 1
+	
+	#do sp Assumptio "$name"
+	#do sp 73 "$name"
+	#73 is kyrie
+	#do sp 70 "$name"
+}
+
+
+automacro autoBuffs3 {
+party /b[au][fp][fs]/i
+	run-once 1
+	priority 3
+	call Buffs3
+}
+
+
+macro Buffs3 {
+	$name = $.lastparty
+	call skillBuffs
+	release autoBuffs3
+}
+
+automacro autoBuffs4 {
+party /rb/i
+	run-once 1
+	priority 4
+	call Buffs4
+}
+
+macro Buffs4 {
+	do sp 2041
+	pause .5
+	do sp 2042
+	pause .5
+	release autoBuffs4
+}
+
+automacro autoBuffs5 {
+party /s[ae]c/i
+	run-once 1
+	priority 5
+	call Buffs5
+}
+
+macro Buffs5 {
+	$name = $.lastparty
+	do sp 2515 "$name"
+	pause .5
+	release autoBuffs5
+}
+
+automacro autoSilentium1 {
+areaSpell Thunderstorm, Pneuma , Storm Gust , Lord of Vermillion, Meteor Storm , Lord of Vermillion, Meteor Storm ,  Land Protector , Magnetic Earth , Quagmire
+	run-once 1
+	priority 6
+	call Silentium1
+}
+
+macro Silentium1{
+	do ss 2057
+	pause 1
+	release autoSilentium1
+}
+
+automacro autoSilentium2 {
+console /\[dist=(.*)\] (.*) \((\d+)\): (.*)(Fist)(.*)$/
+	run-once 1
+	priority 1
+	call Silentium2
+}
+
+macro Silentium2{
+	do ss 2057
+	pause 1
+	do ss 2045
+	pause 1
+	release autoSilentium2
+}
+
+automacro autoProntera {
+pubm /pro?n?t.*/[i]
+	run-once 1
+	priority 7
+	call prontera
+}
+
+macro prontera {
+	$namepub = @player($.lastpub)
+	$xWarp = @eval ($::players{$::playersID[$namepub]}->{pos_to}{x} - 1)
+	$yWarp = @eval ($::players{$::playersID[$namepub]}->{pos_to}{y} + 1)
+	$playerguild = @eval (exists $::players{$::playersID[$namepub]}->{guild} ? $::players{$::playersID[$namepub]}->{guild}{name} : 'null')
+
+	$guild = Adv.Of Angels Ft.Sanko
+	$guild2 = Adv.of Angels ft.Sanko
+
+
+	$castRange = 9
+	
+	if ($playerguild = null) {
+		release autoProntera
+	}	
+	
+	if ( ($playerguild = $guild) || ($playerguild = $guild2) ) {
+		call warpProntAgit
+	}
+	
+	release autoProntera
+}
+
+macro warpProntAgit {
+	do sl 27 $xWarp $yWarp
+	pause 1
+	do warp 0
+}
+
+automacro autoGeffen {
+pubm /gef/[i]
+	run-once 1
+	priority 8
+	call geffen
+}
+
+macro geffen {
+
+	$namepub = @player($.lastpub)
+	$xWarp = @eval ($::players{$::playersID[$namepub]}->{pos_to}{x} - 1)
+	$yWarp = @eval ($::players{$::playersID[$namepub]}->{pos_to}{y} + 1)
+	$playerguild = @eval (exists $::players{$::playersID[$namepub]}->{guild} ? $::players{$::playersID[$namepub]}->{guild}{name} : 'null')
+
+	$guild = Adv.Of Angels Ft.Sanko
+	$guild2 = Adv.of Angels ft.Sanko
+
+	
+	$castRange = 9
+	
+	if ($playerguild = null) {
+		release autoGeffen
+	}	
+	
+	if ( ($playerguild = $guild) || ($playerguild = $guild2) ) { 
+		call warpGeffenAgit
+	}
+
+	release autoGeffen
+}
+
+macro warpGeffenAgit {
+	do sl 27 $xWarp $yWarp
+	pause 1
+	do warp 1
+}
+
+automacro autoPayon {
+pubm /pay/[i]
+	run-once 1
+	priority 9
+	call payon
+}
+
+macro payon {
+
+	$namepub = @player($.lastpub)
+	$xWarp = @eval ($::players{$::playersID[$namepub]}->{pos_to}{x} - 1)
+	$yWarp = @eval ($::players{$::playersID[$namepub]}->{pos_to}{y} + 1)
+	$playerguild = @eval (exists $::players{$::playersID[$namepub]}->{guild} ? $::players{$::playersID[$namepub]}->{guild}{name} : 'null')
+
+	$guild = Adv.Of Angels Ft.Sanko
+	$guild2 = Adv.of Angels ft.Sanko
+
+	
+	$castRange = 9
+	
+	if ($playerguild = null) {
+		release autoPayon
+	}	
+	
+	if ( ($playerguild = $guild) || ($playerguild = $guild2) ) {
+		call warpPayonAgit
+	}
+	
+	release autoPayon
+}
+
+macro warpPayonAgit {
+	do sl 27 $xWarp $yWarp
+	pause 1
+	do warp 2
+}
+
+automacro autoAlde {
+pubm /ald/[i]
+	run-once 1
+	priority 10
+	call alde
+}
+
+macro alde {
+	$namepub = @player($.lastpub)
+	$xWarp = @eval ($::players{$::playersID[$namepub]}->{pos_to}{x} - 1)
+	$yWarp = @eval ($::players{$::playersID[$namepub]}->{pos_to}{y} + 1)
+	$playerguild = @eval (exists $::players{$::playersID[$namepub]}->{guild} ? $::players{$::playersID[$namepub]}->{guild}{name} : 'null')
+
+	$guild = Adv.Of Angels Ft.Sanko
+	$guild2 = Adv.of Angels ft.Sanko
+
+	
+	$castRange = 9
+	
+	if ($playerguild = null) {
+		release autoAlde
+	}	
+	
+	if ( ($playerguild = $guild) || ($playerguild = $guild2) ) {
+		call warpAldeAgit
+	}
+
+	release autoAlde
+}
+
+macro warpAldeAgit {
+	do sl 27 $xWarp $yWarp
+	pause 1
+	do warp 3
+}

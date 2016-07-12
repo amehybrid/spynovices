@@ -1,0 +1,1093 @@
+[Apr 9 12:42:33 2016][PM] (To: fusion_lumina) : urpay no def
+[Apr 9 12:43:10 2016][PM] (To: fusion_lumina) : died at urpay
+[Apr 9 12:44:31 2016][PM] (To: fusion_lumina) : urpay no def
+[Apr 9 12:45:02 2016][PM] (To: fusion_lumina) : died at urpay
+[Apr 9 12:46:23 2016][PM] (To: fusion_lumina) : urpay no def
+[Apr 9 12:50:21 2016][PM] (To: fusion_lumina) : died at urpay
+[Apr 9 12:51:42 2016][PM] (To: fusion_lumina) : 1460177501 urpay no def
+[Apr 9 12:53:43 2016][PM] (To: fusion_lumina) : 12:53 died at urpay
+[Apr 9 12:55:04 2016][PM] (To: fusion_lumina) : 12:55 urpay no def
+[Apr 9 19:02:08 2016][G] Smoke and Mirrors : 19:2 died at urpay
+[Apr 9 19:02:10 2016][G] Charlotte Dunois : 19:2 died at uppay
+[Apr 9 19:02:18 2016][G] i'm Good! : wew
+[Apr 9 19:02:25 2016][G] Sgt. Kururugi San : waw
+[Apr 9 19:02:31 2016][G] i'm Good! : ano yan ahhaahaah
+[Apr 9 19:03:30 2016][G] Smoke and Mirrors : 19:3 urpay no def
+[Apr 9 19:03:38 2016][G] fusion_lumina : walang tao sa uppay
+[Apr 9 19:03:43 2016][G] fusion_lumina : ay sa urpay pala
+[Apr 9 19:04:10 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 19:04:38 2016][G] i'm Good! : aw pota si eco ba yan
+[Apr 9 19:04:47 2016][G] Sgt. Kururugi San : sbno?
+[Apr 9 19:04:59 2016][LB] The emperium has been destroyed.
+[Apr 9 19:04:59 2016][S] The [Shadow of Buddha] castle has been conquered by the [Syntax Error] guild.
+[Apr 9 19:05:03 2016][S] The [Red Palace] castle has been conquered by the [Perverts] guild.
+[Apr 9 19:05:07 2016][G] fusion_lumina : haha n
+[Apr 9 19:05:26 2016][G] ''r0k0r0ko" : urpay na break namin
+[Apr 9 19:05:35 2016][G] BeaTFanG : saan attack gm
+[Apr 9 19:06:15 2016][G] Astro ~ Not : si ruve
+[Apr 9 19:06:20 2016][G] Astro ~ Not : pl
+[Apr 9 19:06:27 2016][G] i'm Good! : napano ka
+[Apr 9 19:06:46 2016][G] TS_Cheeky_Angel : baps ang code beat
+[Apr 9 19:07:50 2016][G] Smoke and Mirrors : 19:7 died at urpay
+[Apr 9 19:08:03 2016][G] MaIdita : libot muna ako
+[Apr 9 19:08:08 2016][G] `Donna*** : sabi nlng kpag mag ec para mag statis type ako
+[Apr 9 19:08:12 2016][S] The [Bergell] castle has been conquered by the [Hobbits] guild.
+[Apr 9 19:08:30 2016][S] The [Red Palace] castle has been conquered by the [Hobbits] guild.
+[Apr 9 19:08:35 2016][G] Gestalt Zero : sa ano tayo
+[Apr 9 19:08:37 2016][G] juni2Iog : sali ko party
+[Apr 9 19:08:45 2016][G] Gestalt Zero : dun sa lrpay puntahan niyo na
+[Apr 9 19:08:46 2016][G] Gestalt Zero : dun sa lrpay puntahan niyo na
+[Apr 9 19:08:47 2016][G] Charlotte Dunois : 19:8 uppay no def
+[Apr 9 19:08:53 2016][G] Gestalt Zero : setup lang ako
+[Apr 9 19:08:55 2016][G] Gestalt Zero : lrpay
+[Apr 9 19:09:10 2016][G] Charlotte Dunois : 19:9 died at uppay
+[Apr 9 19:09:11 2016][G] Smoke and Mirrors : 19:9 urpay no def
+[Apr 9 19:09:26 2016][G] MaIdita : nsa ulpay kme
+[Apr 9 19:09:32 2016][G] Smoke and Mirrors : 19:9 died at urpay
+[Apr 9 19:09:34 2016][G] Astro ~ Not : fusiuon ayaw ata mag buffs 
+[Apr 9 19:09:35 2016][S] The [Shadow of Buddha] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 19:09:35 2016][G] Astro ~ Not : haha
+[Apr 9 19:09:40 2016][G] MaIdita : no def din
+[Apr 9 19:09:48 2016][G] BeaTFanG : ang troll ng emblem
+[Apr 9 19:10:18 2016][G] MaIdita : hahaha the best tong emblem mamaya pag ka EC 
+[Apr 9 19:10:32 2016][G] [G]Ombel[X] : tra rak na
+[Apr 9 19:10:35 2016][S] The [Swanhild] castle has been conquered by the [Perverts] guild.
+[Apr 9 19:10:40 2016][S] The [Arbor of Light] castle has been conquered by the [Syntax Error] guild.
+[Apr 9 19:10:42 2016][G] [G]Ombel[X] : san tau?
+[Apr 9 19:10:51 2016][G] Astro ~ Not : haha basag agad
+[Apr 9 19:10:53 2016][G] i'm Good! : ravage
+[Apr 9 19:10:55 2016][G] MaIdita : nakuha po namin Ulpay. def ba?
+[Apr 9 19:10:56 2016][G] Smoke and Mirrors : 19:10 urpay no def
+[Apr 9 19:10:58 2016][G] i'm Good! : hobbits
+[Apr 9 19:11:07 2016][G] Lord Beerus : taena emblem to
+[Apr 9 19:11:07 2016][G] Charlotte Dunois : 19:11 uppay no def
+[Apr 9 19:11:09 2016][G] Smoke and Mirrors : 19:11 died at urpay
+[Apr 9 19:11:09 2016][G] Lord Beerus : sakit samata
+[Apr 9 19:11:10 2016][G] Sumadartson~ : WOW 32
+[Apr 9 19:11:10 2016][G] Lord Beerus : Oi
+[Apr 9 19:11:15 2016][G] Charlotte Dunois : 19:11 died at uppay
+[Apr 9 19:11:29 2016][G] Gestalt Zero : san niyo ba gusto
+[Apr 9 19:11:33 2016][G] Gestalt Zero : asan ravage alam nyo?
+[Apr 9 19:11:37 2016][G] Shlzuku : UBOS SUPPLY NG SURA HAHAHA
+[Apr 9 19:11:38 2016][G] fusion_lumina : urpay
+[Apr 9 19:11:40 2016][G] Gestalt Zero : nagkalat gamit ko HAHAHA
+[Apr 9 19:11:48 2016][G] MaIdita : urpay daw madami lol
+[Apr 9 19:11:49 2016][G] Sumadartson~ : AHAHAHAH
+[Apr 9 19:11:52 2016][G] Sumadartson~ : NASAKIN GFSS NA ISA
+[Apr 9 19:12:00 2016][G] Sumadartson~ : ANTI SNIPING
+[Apr 9 19:12:07 2016][G] Sumadartson~ : VIT+ 18
+[Apr 9 19:12:10 2016][G] Gestalt Zero : g redy nako haha
+[Apr 9 19:12:13 2016][S] The [Lazreagues] castle has been conquered by the [Swanity] guild.
+[Apr 9 19:12:16 2016][G] juni2Iog : may DEVO ba tayo?
+[Apr 9 19:12:21 2016][G] MaIdita : juni
+[Apr 9 19:12:23 2016][G] MaIdita : yown
+[Apr 9 19:12:26 2016][G] MaIdita : sa kabila si astro not
+[Apr 9 19:12:32 2016][G] Smoke and Mirrors : 19:12 urpay no def
+[Apr 9 19:12:42 2016][G] Smoke and Mirrors : 19:12 died at urpay
+[Apr 9 19:12:43 2016][G] i'm Good! : subukan naten lakas ng mukha ni edwin
+[Apr 9 19:12:44 2016][G] Gestalt Zero : bawal pa naman magpalit ng emblem during woe time
+[Apr 9 19:12:47 2016][G] juni2Iog : san ako?
+[Apr 9 19:12:49 2016][G] Gestalt Zero : bawal pa naman magpalit ng emblem during woe time
+[Apr 9 19:12:53 2016][G] Sumadartson~ : PASALI PARTY YUNG MAY DEVO
+[Apr 9 19:12:54 2016][G] Sumadartson~ : PASALI PARTY YUNG MAY DEVO
+[Apr 9 19:12:54 2016][G] Sumadartson~ : PASALI PARTY YUNG MAY DEVO 
+[Apr 9 19:13:07 2016][G] Astro ~ Not : pang bakbakan talaga yung emblem
+[Apr 9 19:13:23 2016][G] juni2Iog : d2 ko
+[Apr 9 19:13:23 2016][G] MaIdita : chox jan na si juni
+[Apr 9 19:13:53 2016][G] Gestalt Zero : ayaw magwarp ng lrpay
+[Apr 9 19:14:04 2016][G] MaIdita : urpay ata
+[Apr 9 19:14:14 2016][G] Ruggedy AMD : ayan na hobbit
+[Apr 9 19:14:36 2016][G] Charlotte Dunois : 19:14 uppay no def
+[Apr 9 19:14:39 2016][G] Astro ~ Not : SAN KA NA DONNA?
+[Apr 9 19:14:46 2016][G] Gestalt Zero : jan natin lalabanan hobbits sa ulpay?
+[Apr 9 19:14:47 2016][G] `Donna*** : teka
+[Apr 9 19:14:50 2016][S] The [Neuschwanstein] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 19:14:59 2016][G] [G]Ombel[X] : putah puro eb at cs type mga ravage hahaha
+[Apr 9 19:15:02 2016][G] Charlotte Dunois : 19:15 died at uppay
+[Apr 9 19:15:11 2016][G] MaIdita : lumusob hobbits
+[Apr 9 19:16:00 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [Hobbits] guild.
+[Apr 9 19:16:04 2016][G] i'm Good! : ec ec
+[Apr 9 19:16:05 2016][G] juni2Iog : baps
+[Apr 9 19:16:05 2016][G] i'm Good! : ec ec 
+[Apr 9 19:16:06 2016][G] Gestalt Zero : EC
+[Apr 9 19:16:06 2016][G] Gestalt Zero : EC
+[Apr 9 19:16:35 2016][G] Astro ~ Not : GHAHAHAHHAHAHAHAH PORMA NG MUKHA
+[Apr 9 19:16:45 2016][G] Astro ~ Not : PASOK
+[Apr 9 19:16:50 2016][G] Shlzuku : guys paano command sa warp?
+[Apr 9 19:17:24 2016][G] Shlzuku : guys paano command sa warp?
+[Apr 9 19:17:36 2016][G] fusion_lumina : commands sa warp
+[Apr 9 19:17:46 2016][G] MaIdita : andun ung RK ng majesty e
+[Apr 9 19:17:49 2016][G] fusion_lumina : midprt ulprt urprtlrprt
+[Apr 9 19:17:55 2016][S] The [Swanhild] castle has been conquered by the [3OO] guild.
+[Apr 9 19:17:57 2016][S] The [Jyolbriger] castle has been conquered by the [MouseHunt Gaming.] guild.
+[Apr 9 19:17:58 2016][G] Gestalt Zero : pano warp dito sa lower left pay
+[Apr 9 19:18:05 2016][S] The [Red Palace] castle has been conquered by the [Syntax Error] guild.
+[Apr 9 19:18:26 2016][G] Charlotte Dunois : 19:18 uppay no def
+[Apr 9 19:18:52 2016][G] Gestalt Zero : d2 nma sila
+[Apr 9 19:18:54 2016][G] Gestalt Zero : d2 nma sila
+[Apr 9 19:18:58 2016][G] Charlotte Dunois : uppay walang bantay
+[Apr 9 19:19:07 2016][G] i'm Good! : dyan na hobbits
+[Apr 9 19:19:10 2016][G] BeaTFanG : bat nag stasis
+[Apr 9 19:19:12 2016][G] Ruggedy AMD : stasis
+[Apr 9 19:19:14 2016][S] The [Hohenschwangau] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 19:19:19 2016][G] Astro ~ Not : STASIS?
+[Apr 9 19:19:30 2016][G] Ruggedy AMD : pa baps po ako plss
+[Apr 9 19:19:33 2016][G] i'm Good! : nag ec na hobbtias
+[Apr 9 19:19:42 2016][S] The [Kendul] castle has been conquered by the [Perverts] guild.
+[Apr 9 19:20:06 2016][G] `Donna*** : secra here
+[Apr 9 19:20:40 2016][G] `Donna*** : penge po secra
+[Apr 9 19:20:45 2016][G] fusion_lumina : uppay tayo
+[Apr 9 19:21:22 2016][G] Gestalt Zero : dami na ha
+[Apr 9 19:21:23 2016][G] Gestalt Zero : dami na ha
+[Apr 9 19:21:27 2016][G] BeaTFanG : marami hobbits sa labas LLPAY
+[Apr 9 19:21:40 2016][G] [G]Ombel[X] : and2 mga pro
+[Apr 9 19:21:41 2016][G] Gestalt Zero : hahaha
+[Apr 9 19:21:45 2016][G] Gestalt Zero : SD mo nga eco hahaha
+[Apr 9 19:22:22 2016][G] fusion_lumina : kanina pa si charlotte dito
+[Apr 9 19:22:27 2016][G] MaIdita : hahahah
+[Apr 9 19:23:01 2016][G] i'm Good! : doodle pahabol mga sura
+[Apr 9 19:23:02 2016][G] i'm Good! : doodle pahabol mga sura 
+[Apr 9 19:23:03 2016][G] i'm Good! : doodle pahabol mga sura  
+[Apr 9 19:23:03 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [Syntax Error] guild.
+[Apr 9 19:23:31 2016][G] i'm Good! : ent ng emp nakapasok na
+[Apr 9 19:23:32 2016][G] i'm Good! : ent ng emp nakapasok na 
+[Apr 9 19:23:33 2016][G] i'm Good! : ent ng emp nakapasok na  
+[Apr 9 19:23:39 2016][G] i'm Good! : wal ana bantau am,p bat niyo iniwan lane
+[Apr 9 19:23:44 2016][S] The [Arbor of Light] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 19:23:44 2016][S] The [Swanhild] castle has been conquered by the [Perverts] guild.
+[Apr 9 19:23:44 2016][G] Gestalt Zero : EC
+[Apr 9 19:24:00 2016][G] Gestalt Zero : balik kayo dito sa llpay
+[Apr 9 19:24:12 2016][G] Gestalt Zero : EC
+[Apr 9 19:24:51 2016][G] `Donna*** : dami
+[Apr 9 19:24:52 2016][G] Gestalt Zero : dami haha
+[Apr 9 19:25:47 2016][G] god4sakenme : kain lang saglit brb
+[Apr 9 19:25:58 2016][G] Ruggedy AMD : nasisira na kaka pindot ng mastela
+[Apr 9 19:26:10 2016][S] The [Red Palace] castle has been conquered by the [pRO New Chaos] guild.
+[Apr 9 19:26:35 2016][G] Gestalt Zero : hahaha
+[Apr 9 19:26:35 2016][G] Gestalt Zero : andami
+[Apr 9 19:26:43 2016][G] fusion_lumina : ulpay tayo
+[Apr 9 19:26:47 2016][G] [G]Ombel[X] : san un?
+[Apr 9 19:26:49 2016][G] Gestalt Zero : ano nsa ulpay
+[Apr 9 19:26:59 2016][G] fusion_lumina : isa lang bantay natiyambahan lang ako ng crush strike
+[Apr 9 19:27:25 2016][S] The [Hohenschwangau] castle has been conquered by the [Hobbits] guild.
+[Apr 9 19:27:34 2016][G] Astro ~ Not : HOBBITS?
+[Apr 9 19:27:50 2016][G] MaIdita : tangina
+[Apr 9 19:27:57 2016][G] MaIdita : hobbits, swanity, pro NC nasa red palace
+[Apr 9 19:28:05 2016][G] Gestalt Zero : sa
+[Apr 9 19:28:06 2016][G] BeaTFanG : magkaally yan?
+[Apr 9 19:28:10 2016][G] Gestalt Zero : ur pay ravage mdami
+[Apr 9 19:28:10 2016][G] MaIdita : ewan ko
+[Apr 9 19:28:20 2016][G] i'm Good! : urpay daw amp
+[Apr 9 19:28:23 2016][G] Charlotte Dunois : 19:28 uppay no def
+[Apr 9 19:28:28 2016][G] MaIdita : hobbits di yun ally. magkakalaban lahat ata
+[Apr 9 19:28:36 2016][G] Smoke and Mirrors : 19:28 urpay no def
+[Apr 9 19:28:36 2016][G] Charlotte Dunois : 19:28 died at uppay
+[Apr 9 19:29:17 2016][G] Gestalt Zero : ubos agad amp hahaha
+[Apr 9 19:29:24 2016][G] MaIdita : san tau??
+[Apr 9 19:29:24 2016][S] The [Swanhild] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 19:30:17 2016][G] Gestalt Zero : basag na? eecall ako sa iba
+[Apr 9 19:30:29 2016][G] Smoke and Mirrors : 19:30 died at urpay
+[Apr 9 19:31:00 2016][S] The [Shadow of Buddha] castle has been conquered by the [Syntax Error] guild.
+[Apr 9 19:31:22 2016][S] The [Arbor of Light] castle has been conquered by the [Syntax Error] guild.
+[Apr 9 19:31:29 2016][G] Ruggedy AMD : paano ba pabilisin ng takbo nito haha
+[Apr 9 19:31:31 2016][G] Gestalt Zero : hanapin ko hobbits
+[Apr 9 19:31:32 2016][S] The [Lazreagues] castle has been conquered by the [pRO New Chaos] guild.
+[Apr 9 19:31:44 2016][S] The [Kendul] castle has been conquered by the [3OO] guild.
+[Apr 9 19:32:02 2016][S] The [Hohenschwangau] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 19:32:11 2016][S] The [Red Palace] castle has been conquered by the [Swanity] guild.
+[Apr 9 19:32:39 2016][G] Charlotte Dunois : 19:32 uppay no def
+[Apr 9 19:33:01 2016][G] Charlotte Dunois : 19:33 died at uppay
+[Apr 9 19:33:04 2016][G] MaIdita : RAVAGE uppay
+[Apr 9 19:33:07 2016][G] Smoke and Mirrors : 19:33 urpay no def
+[Apr 9 19:33:07 2016][G] Charlotte Dunois : 19:33 died at uppay
+[Apr 9 19:33:09 2016][G] Gestalt Zero : madami?
+[Apr 9 19:33:25 2016][G] BeaTFanG : next ec?
+[Apr 9 19:33:31 2016][G] Gestalt Zero : naghhnap
+[Apr 9 19:33:44 2016][G] Smoke and Mirrors : 19:33 died at urpay
+[Apr 9 19:34:13 2016][G] Ruggedy AMD : nilulusob na ng swanity mid pront
+[Apr 9 19:34:13 2016][G] Gestalt Zero : midpay madami?
+[Apr 9 19:34:15 2016][G] Ruggedy AMD : nilulusob na ng swanity mid pront
+[Apr 9 19:34:20 2016][G] MaIdita : nilusob kami ng ravage 
+[Apr 9 19:34:25 2016][G] Ruggedy AMD : asan na ung hobbits
+[Apr 9 19:34:26 2016][G] i'm Good! : saan yan
+[Apr 9 19:34:30 2016][G] i'm Good! : saan yan maldita
+[Apr 9 19:34:31 2016][S] The [Arbor of Light] castle has been conquered by the [Perverts] guild.
+[Apr 9 19:34:37 2016][G] MaIdita : wait 
+[Apr 9 19:34:48 2016][G] MaIdita : nalimot ko
+[Apr 9 19:34:49 2016][G] MaIdita : urpay 
+[Apr 9 19:34:50 2016][G] MaIdita : i think
+[Apr 9 19:34:52 2016][G] i'm Good! : aw hahaha
+[Apr 9 19:34:54 2016][G] `Donna*** : nakikita ko na
+[Apr 9 19:34:55 2016][G] `Donna*** : hahaha 
+[Apr 9 19:34:56 2016][G] Gestalt Zero : urpay daw
+[Apr 9 19:34:56 2016][G] MaIdita : haha
+[Apr 9 19:34:57 2016][S] The [Red Palace] castle has been conquered by the [Hobbits] guild.
+[Apr 9 19:35:03 2016][G] Charlotte Dunois : 19:35 uppay no def
+[Apr 9 19:35:08 2016][G] Charlotte Dunois : 19:35 died at uppay
+[Apr 9 19:35:10 2016][G] Smoke and Mirrors : 19:35 urpay no def
+[Apr 9 19:35:34 2016][G] MaIdita : uu tama urpay
+[Apr 9 19:35:39 2016][G] [G]Ombel[X] : hobbit at majesty lang ba tau??
+[Apr 9 19:35:47 2016][G] Ruggedy AMD : bsag
+[Apr 9 19:35:48 2016][G] MaIdita : nabasag ung urpay
+[Apr 9 19:35:48 2016][G] Smoke and Mirrors : 19:35 died at urpay
+[Apr 9 19:35:49 2016][G] Ruggedy AMD : tra
+[Apr 9 19:35:50 2016][S] The [Shadow of Buddha] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 19:35:51 2016][G] i'm Good! : hobbits nasa lrpay na
+[Apr 9 19:35:51 2016][G] fusion_lumina : uppay walang bantsy
+[Apr 9 19:35:58 2016][G] i'm Good! : AHAHAH
+[Apr 9 19:37:06 2016][G] Gestalt Zero : ec
+[Apr 9 19:37:26 2016][G] Smoke and Mirrors : 19:37 died at urpay
+[Apr 9 19:37:27 2016][G] i'm Good! : bragi frigs
+[Apr 9 19:37:29 2016][G] i'm Good! : bragi frigs 
+[Apr 9 19:37:30 2016][G] Charlotte Dunois : 19:37 died at uppay
+[Apr 9 19:37:45 2016][G] Sumadartson~ : PABLESS NAMAN
+[Apr 9 19:37:45 2016][G] Sumadartson~ : PABLESS NAMAN
+[Apr 9 19:37:46 2016][G] `Donna*** : statis ko
+[Apr 9 19:38:05 2016][G] i'm Good! : dami hahahahahahahahahahaha
+[Apr 9 19:38:08 2016][G] Gestalt Zero : tae nag not responding pa hahaha
+[Apr 9 19:38:10 2016][G] Ruggedy AMD : di maka lp napakhinang sorce to haha
+[Apr 9 19:38:32 2016][G] `Donna*** : statis ko sna kaso pumasok na kayo haha
+[Apr 9 19:38:34 2016][G] Gestalt Zero : llpay yun dun lang tayo tara hahaha
+[Apr 9 19:38:34 2016][G] Gestalt Zero : llpay yun dun lang tayo tara hahaha
+[Apr 9 19:38:34 2016][S] The [Swanhild] castle has been conquered by the [Desperate Moves] guild.
+[Apr 9 19:38:39 2016][G] Ruggedy AMD : ge tra
+[Apr 9 19:38:41 2016][G] Gestalt Zero : ge sa next ec ko stasis muna
+[Apr 9 19:38:44 2016][G] Gestalt Zero : hold lang natin pre emp
+[Apr 9 19:38:45 2016][G] Gestalt Zero : hold lang natin pre emp
+[Apr 9 19:38:46 2016][G] Gestalt Zero : hold lang natin pre emp  
+[Apr 9 19:38:46 2016][G] Gestalt Zero : hold lang natin pre emp  
+[Apr 9 19:38:52 2016][G] `Donna*** : bago pasok
+[Apr 9 19:38:52 2016][G] Smoke and Mirrors : 19:38 urpay no def
+[Apr 9 19:39:02 2016][G] `Donna*** : sabi ka para switch ako def ste
+[Apr 9 19:39:06 2016][G] Astro ~ Not : ako lang ba nakapasok? haha
+[Apr 9 19:39:22 2016][G] Gestalt Zero : d mo ma mandra sa loob eco? haha
+[Apr 9 19:39:35 2016][G] Astro ~ Not : san yun dan???
+[Apr 9 19:39:36 2016][G] Charlotte Dunois : 19:39 uppay no def
+[Apr 9 19:39:38 2016][G] Gestalt Zero : llpay 
+[Apr 9 19:39:39 2016][G] Gestalt Zero : llpay 
+[Apr 9 19:39:41 2016][G] Sumadartson~ : WALANG NAG BLEBLESS EH
+[Apr 9 19:39:43 2016][G] Sumadartson~ : DI AKO MAKAMANDRA
+[Apr 9 19:39:49 2016][G] Gestalt Zero : bnless kita hahah
+[Apr 9 19:39:51 2016][G] Sumadartson~ : PARANG NAKA 5X SABI KO NG BLESS BAGO MAY NAG BLESS
+[Apr 9 19:40:03 2016][S] The [Neuschwanstein] castle has been conquered by the [Desperate Moves] guild.
+[Apr 9 19:40:06 2016][G] Smoke and Mirrors : urpay walang bantay
+[Apr 9 19:40:23 2016][S] The [Hohenschwangau] castle has been conquered by the [Regius] guild.
+[Apr 9 19:40:24 2016][S] The [Lazreagues] castle has been conquered by the [Swanity] guild.
+[Apr 9 19:40:34 2016][G] Smoke and Mirrors : 19:40 died at urpay
+[Apr 9 19:40:56 2016][G] Charlotte Dunois : 19:40 died at uppay
+[Apr 9 19:41:01 2016][G] i'm Good! : al brag
+[Apr 9 19:41:43 2016][G] BeaTFanG : nag ec pro
+[Apr 9 19:41:58 2016][G] Gestalt Zero : inang pro nc to haha
+[Apr 9 19:41:59 2016][G] Smoke and Mirrors : 19:41 urpay no def
+[Apr 9 19:42:00 2016][S] The [Arbor of Light] castle has been conquered by the [Syntax Error] guild.
+[Apr 9 19:42:17 2016][S] The [Skoegul] castle has been conquered by the [3OO] guild.
+[Apr 9 19:42:19 2016][S] The [Swanhild] castle has been conquered by the [Perverts] guild.
+[Apr 9 19:42:49 2016][G] Smoke and Mirrors : 19:42 died at urpay
+[Apr 9 19:42:55 2016][G] Charlotte Dunois : 19:42 uppay no def
+[Apr 9 19:42:58 2016][G] TS_Cheeky_Angel : san yan?
+[Apr 9 19:43:00 2016][G] Gestalt Zero : EC AKO
+[Apr 9 19:43:05 2016][S] The [Kendul] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 19:43:32 2016][G] `Donna*** : ready
+[Apr 9 19:43:48 2016][G] Charlotte Dunois : galing ko ?
+[Apr 9 19:43:52 2016][G] Gestalt Zero : WALA
+[Apr 9 19:43:57 2016][G] Gestalt Zero : naubos na ng pro ncu ng hobbits
+[Apr 9 19:43:59 2016][G] Sumadartson~ : swanity din nasa loob na
+[Apr 9 19:44:06 2016][G] Ruggedy AMD : haha
+[Apr 9 19:44:08 2016][G] Ruggedy AMD : ung ravage nalng
+[Apr 9 19:44:16 2016][G] Smoke and Mirrors : 19:44 urpay no def
+[Apr 9 19:44:18 2016][G] Gestalt Zero : lagi nakasunod haha
+[Apr 9 19:44:23 2016][G] fusion_lumina : urpay raw
+[Apr 9 19:44:39 2016][G] Gestalt Zero : basagin nalang natin
+[Apr 9 19:44:40 2016][G] Gestalt Zero : ung mid pront
+[Apr 9 19:44:43 2016][G] Gestalt Zero : tapos dun tayo antay
+[Apr 9 19:44:46 2016][G] Smoke and Mirrors : 19:44 died at urpay
+[Apr 9 19:45:47 2016][S] The [Arbor of Light] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 19:45:57 2016][S] The [Skoegul] castle has been conquered by the [Regius] guild.
+[Apr 9 19:46:00 2016][G] Sgt. Kururugi San : pwarp pront maldita
+[Apr 9 19:46:06 2016][G] Gestalt Zero : taena hahaha
+[Apr 9 19:46:09 2016][G] Gestalt Zero : san tayo papadpad
+[Apr 9 19:46:21 2016][S] The [Hohenschwangau] castle has been conquered by the [Desperate Moves] guild.
+[Apr 9 19:46:30 2016][G] Ruggedy AMD : ung Ravage 
+[Apr 9 19:46:39 2016][G] fusion_lumina : lrprt walang bantay
+[Apr 9 19:46:56 2016][G] Gestalt Zero : hanap tayo may kalaban ahah
+[Apr 9 19:47:06 2016][G] fusion_lumina : sa mga breaker
+[Apr 9 19:47:10 2016][G] fusion_lumina : sayang free kill
+[Apr 9 19:47:23 2016][G] i'm Good! : taas ka onti sa respawn naten
+[Apr 9 19:48:20 2016][G] Gestalt Zero : 50 daw ang hobbits palag? HAHAHA
+[Apr 9 19:48:35 2016][G] Charlotte Dunois : 19:48 uppay no def
+[Apr 9 19:48:48 2016][G] Smoke and Mirrors : 19:48 urpay no def
+[Apr 9 19:49:13 2016][G] Smoke and Mirrors : 19:49 died at urpay
+[Apr 9 19:49:35 2016][G] MaIdita : san tau?
+[Apr 9 19:49:39 2016][G] Gestalt Zero : ec ako
+[Apr 9 19:49:43 2016][S] The [Neuschwanstein] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 19:49:51 2016][S] The [Nuernberg] castle has been conquered by the [Regius] guild.
+[Apr 9 19:49:55 2016][G] Ruggedy AMD : wait kuha gem
+[Apr 9 19:49:58 2016][G] MaIdita : guys? saan po?
+[Apr 9 19:50:05 2016][G] Gestalt Zero : EC
+[Apr 9 19:50:57 2016][S] The GM Team will never ask for usernames and passwords in game, ask you to log into an outside website, or contact you on skype.
+[Apr 9 19:50:57 2016][S] The [Melcedez] castle has been conquered by the [Regius] guild.
+[Apr 9 19:51:01 2016][S] The [Skoegul] castle has been conquered by the [Syntax Error] guild.
+[Apr 9 19:51:12 2016][G] Gestalt Zero : DEF TO WALA NA AALIS LARO DAW TAYO NG HOBBITS      
+[Apr 9 19:51:12 2016][G] Gestalt Zero : DEF TO WALA NA AALIS LARO DAW TAYO NG HOBBITS      
+[Apr 9 19:51:13 2016][G] Ruggedy AMD : ge
+[Apr 9 19:51:14 2016][G] Gestalt Zero : DEF TO WALA NA AALIS LARO DAW TAYO NG HOBBITS   
+[Apr 9 19:51:14 2016][G] Gestalt Zero : DEF TO WALA NA AALIS LARO DAW TAYO NG HOBBITS   
+[Apr 9 19:51:17 2016][G] `Donna*** : nice2
+[Apr 9 19:51:19 2016][G] Sumadartson~ : wala tayo tga vacum?
+[Apr 9 19:51:20 2016][G] Sumadartson~ : wala tayo tga vacum?
+[Apr 9 19:51:23 2016][G] Astro ~ Not : NICE NICE
+[Apr 9 19:51:25 2016][G] Ruggedy AMD : meron
+[Apr 9 19:51:25 2016][G] MaIdita : dami nun ngaun ahahaha
+[Apr 9 19:51:26 2016][G] Ruggedy AMD : teka
+[Apr 9 19:51:28 2016][G] Astro ~ Not : SAN nga ulet yan???
+[Apr 9 19:51:33 2016][G] Astro ~ Not : llglo?
+[Apr 9 19:51:35 2016][G] MaIdita : naka merge sa majesty ang alam ko
+[Apr 9 19:51:36 2016][G] Gestalt Zero : ULPRT
+[Apr 9 19:51:37 2016][G] Gestalt Zero : ULPRT
+[Apr 9 19:51:44 2016][G] Gestalt Zero : 52 daw sila ngayon hobbits
+[Apr 9 19:51:45 2016][G] Gestalt Zero : 52 daw sila ngayon hobbits
+[Apr 9 19:51:55 2016][G] TS_Cheeky_Angel : mag ready na ako ballpen at paper
+[Apr 9 19:51:59 2016][G] Smoke and Mirrors : 19:51 urpay no def
+[Apr 9 19:51:59 2016][G] Sumadartson~ : sali party yung may devo
+[Apr 9 19:52:09 2016][G] juni2Iog : pa devo ako
+[Apr 9 19:52:12 2016][G] TS_Cheeky_Angel : lista q mga nuhang agit last 30 mins
+[Apr 9 19:52:19 2016][G] Sumadartson~ : ruve sali party
+[Apr 9 19:52:19 2016][G] Sumadartson~ : ruve sali party
+[Apr 9 19:52:19 2016][G] Lord MackiLL_VA : my bisita na
+[Apr 9 19:52:26 2016][G] fusion_lumina : guys si breth nagpapainvite pahingi muna invitier
+[Apr 9 19:52:28 2016][G] Charlotte Dunois : 19:52 uppay no def
+[Apr 9 19:52:28 2016][G] i'm Good! : san ka
+[Apr 9 19:52:30 2016][G] Ruggedy AMD : pa pneuma sa lane
+[Apr 9 19:52:38 2016][G] Gestalt Zero : yan may inviter na lahat
+[Apr 9 19:52:38 2016][G] Gestalt Zero : yan may inviter na lahat
+[Apr 9 19:52:45 2016][G] Gestalt Zero : NAG EC NA 
+[Apr 9 19:52:45 2016][G] Gestalt Zero : NAG EC NA   
+[Apr 9 19:52:46 2016][G] Gestalt Zero : NAG EC NA   
+[Apr 9 19:52:52 2016][G] ~ Don Pedro ~ :  NAG EC DITO DAN
+[Apr 9 19:52:56 2016][S] The [Arbor of Light] castle has been conquered by the [Perverts] guild.
+[Apr 9 19:53:35 2016][G] fusion_lumina : ndi ko mainvite
+[Apr 9 19:53:38 2016][G] fusion_lumina : bat wala option
+[Apr 9 19:53:51 2016][G] Sumadartson~ : pota wasak yunhg mado
+[Apr 9 19:53:57 2016][G] Ruggedy AMD : oha yeah
+[Apr 9 19:54:14 2016][G] Gestalt Zero : oi dispel mo john hahaha
+[Apr 9 19:54:16 2016][G] juni2Iog : nag Nolimit ako ang dami kc
+[Apr 9 19:54:16 2016][S] The [Kendul] castle has been conquered by the [Desperate Moves] guild.
+[Apr 9 19:54:19 2016][G] fusion_lumina : gm pakick siguro muna ng isang offline
+[Apr 9 19:54:22 2016][G] Ruggedy AMD : uboss
+[Apr 9 19:54:23 2016][G] Sumadartson~ : taeng character to
+[Apr 9 19:54:26 2016][G] i'm Good! : AHHAA lakas ni juni aMP
+[Apr 9 19:54:27 2016][G] Sumadartson~ : minsan nocast minsan hindi
+[Apr 9 19:54:30 2016][G] Charlotte Dunois : 19:54 died at uppay
+[Apr 9 19:54:32 2016][G] Astro ~ Not : WASAKKKKKKKKKKKKKKKKKKKK
+[Apr 9 19:54:34 2016][G] Ruggedy AMD : ubos pala e
+[Apr 9 19:54:42 2016][G] Smoke and Mirrors : 19:54 died at urpay
+[Apr 9 19:54:42 2016][G] Gestalt Zero : ay cd pa hahah
+[Apr 9 19:54:44 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 19:54:44 2016][G] Gestalt Zero : BALIK AGAD
+[Apr 9 19:54:44 2016][G] Gestalt Zero : BALIK AGAD
+[Apr 9 19:54:45 2016][G] Ruggedy AMD : pa baps po ako
+[Apr 9 19:54:46 2016][G] Gestalt Zero : BALIK AGAD  
+[Apr 9 19:54:46 2016][G] Gestalt Zero : BALIK AGAD  
+[Apr 9 19:54:55 2016][G] i'm Good! : FULL NA
+[Apr 9 19:54:55 2016][G] Ruggedy AMD : o diba dan may silbi ako
+[Apr 9 19:54:57 2016][G] Ruggedy AMD : tga vcum haha
+[Apr 9 19:54:59 2016][G] ~ Don Pedro ~ :  SABOG UNG JAYCEE SA HOBBITS HAHAHAHA
+[Apr 9 19:55:14 2016][G] Astro ~ Not : LAKAS maka delay ng bard saka dancer
+[Apr 9 19:55:23 2016][G] ~ Don Pedro ~ :  MERON GENE DAN
+[Apr 9 19:55:32 2016][G] Gestalt Zero : nag ef ako e
+[Apr 9 19:55:39 2016][G] Sgt. Kururugi San : san ulit yan?
+[Apr 9 19:55:40 2016][G] Sgt. Kururugi San : san ulit yan?
+[Apr 9 19:55:41 2016][G] Lord MackiLL_VA : pakick isa
+[Apr 9 19:55:49 2016][G] fusion_lumina : hobbits paatk sa ulprt
+[Apr 9 19:55:55 2016][G] Lord MackiLL_VA : sali c breth guild
+[Apr 9 19:56:01 2016][G] Ruggedy AMD : wag lahat habol sa mga naka lusot ha
+[Apr 9 19:56:05 2016][G] Smoke and Mirrors : 19:56 urpay no def
+[Apr 9 19:56:11 2016][G] juni2Iog : CD NL ko
+[Apr 9 19:56:13 2016][G] Gestalt Zero : EC DEF HA
+[Apr 9 19:56:13 2016][G] Gestalt Zero : EC DEF HA
+[Apr 9 19:56:36 2016][G] Smoke and Mirrors : 19:56 died at urpay
+[Apr 9 19:56:42 2016][G] Ruggedy AMD : pa span pnuema sa lane plss thanks
+[Apr 9 19:57:31 2016][S] The [Neuschwanstein] castle has been conquered by the [Regius] guild.
+[Apr 9 19:57:35 2016][G] `Donna*** : pa kick si chokx yan eh
+[Apr 9 19:57:38 2016][G] `Donna*** : sali ko breth RK
+[Apr 9 19:57:41 2016][G] Ruggedy AMD : setsunsa lapit ka knunti pag pa striking ka
+[Apr 9 19:57:41 2016][G] Sgt. Kururugi San : 7 nasa labas
+[Apr 9 19:58:05 2016][S] The [Arbor of Light] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 19:58:20 2016][G] ~ Don Pedro ~ :  san yan
+[Apr 9 19:58:25 2016][G] Sumadartson~ : llprt
+[Apr 9 19:58:28 2016][G] Sumadartson~ : ay
+[Apr 9 19:58:39 2016][G] Charlotte Dunois : 19:58 uppay no def
+[Apr 9 19:58:48 2016][G] ~ Don Pedro ~ :  san tayo?
+[Apr 9 19:58:56 2016][G] Sumadartson~ : urprt nga
+[Apr 9 19:58:59 2016][G] Gestalt Zero : def lang ulprt
+[Apr 9 19:58:59 2016][G] Gestalt Zero : def lang ulprt
+[Apr 9 19:59:00 2016][G] Gestalt Zero : def lang ulprt  
+[Apr 9 19:59:00 2016][G] Gestalt Zero : def lang ulprt  
+[Apr 9 19:59:04 2016][G] [G]Ombel[X] : jan na hobbit sa labas
+[Apr 9 19:59:06 2016][G] `Donna*** : mali hindi jan
+[Apr 9 19:59:07 2016][G] Sumadartson~ : pag pasok mo ng flag warp mag snap ka kagad hahaha
+[Apr 9 19:59:10 2016][G] fusion_lumina : binabasag ni charlotte uppay...
+[Apr 9 19:59:15 2016][G] juni2Iog : pnuma lng
+[Apr 9 19:59:16 2016][G] i'm Good! : DAMHIN NIYO LAKAS NG PAG MUMUKA NI EDWIN
+[Apr 9 19:59:17 2016][G] i'm Good! : DAMHIN NIYO LAKAS NG PAG MUMUKA NI EDWIN 
+[Apr 9 19:59:18 2016][G] Smoke and Mirrors : 19:59 urpay no def
+[Apr 9 19:59:25 2016][G] i'm Good! : May SD sila ah 
+[Apr 9 19:59:25 2016][G] i'm Good! : May SD sila ah  
+[Apr 9 19:59:35 2016][G] Sumadartson~ : mado unahin nyo ah
+[Apr 9 19:59:40 2016][S] The [Kendul] castle has been conquered by the [Artiste] guild.
+[Apr 9 19:59:46 2016][G] MaIdita : SAFETY WALL KAU JAN, i bkatz ung SD
+[Apr 9 19:59:57 2016][G] Gestalt Zero : LND+HOBBITS+MAJEST YAN
+[Apr 9 20:00:10 2016][G] Smoke and Mirrors : 20:0 died at urpay
+[Apr 9 20:00:14 2016][G] Ruggedy AMD : pa penuma lang sa lane
+[Apr 9 20:00:19 2016][G] Charlotte Dunois : 20:0 died at uppay
+[Apr 9 20:00:24 2016][S] The [Red Palace] castle has been conquered by the [Swanity] guild.
+[Apr 9 20:00:30 2016][G] Shlzuku : PLS BE ALERT SA SD mag CLASICAL KAU PAG PUMASOK SD
+[Apr 9 20:00:39 2016][G] TS_Cheeky_Angel : al
+[Apr 9 20:00:55 2016][G] Astro ~ Not : hiwalay unti sa ent
+[Apr 9 20:00:56 2016][G] i'm Good! : rk wag na habulin focus lang sa mga papasok
+[Apr 9 20:01:03 2016][G] TS_Cheeky_Angel : di kami ka pt al
+[Apr 9 20:01:08 2016][G] i'm Good! : rk water db at db wag na habulin focus lang sa mga papasok
+[Apr 9 20:01:08 2016][S] The [Neuschwanstein] castle has been conquered by the [Desperate Moves] guild.
+[Apr 9 20:01:12 2016][S] The [Lazreagues] castle has been conquered by the [pRO New Chaos] guild.
+[Apr 9 20:01:15 2016][G] Astro ~ Not : ayan na
+[Apr 9 20:01:16 2016][G] Sir Breth Colgate` : saan po kayo?
+[Apr 9 20:01:20 2016][G] Shlzuku : ung yamato po
+[Apr 9 20:01:22 2016][G] `Donna*** : bragi
+[Apr 9 20:01:24 2016][G] i'm Good! : SD 
+[Apr 9 20:01:24 2016][G] `Donna*** : wla bargi
+[Apr 9 20:01:30 2016][G] Shlzuku : pag pumasok ung mechanic
+[Apr 9 20:01:39 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [Regius] guild.
+[Apr 9 20:01:39 2016][G] TS_Cheeky_Angel : al ag rokis kau
+[Apr 9 20:01:44 2016][G] Sumadartson~ : pota yung sd
+[Apr 9 20:01:44 2016][G] MaIdita : NA SD UNG LANE
+[Apr 9 20:01:45 2016][S] The [Nuernberg] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 20:01:45 2016][G] MaIdita : NA SD UNG LANE
+[Apr 9 20:01:46 2016][G] Sumadartson~ : walang pumansin
+[Apr 9 20:01:46 2016][G] Gestalt Zero : balik agad namatay haha
+[Apr 9 20:01:47 2016][G] Astro ~ Not : ano yun?
+[Apr 9 20:01:48 2016][G] Astro ~ Not : 1 hit
+[Apr 9 20:01:49 2016][G] Gestalt Zero : walang namatay sa lane e
+[Apr 9 20:01:49 2016][G] Astro ~ Not : hahah
+[Apr 9 20:01:50 2016][G] Sumadartson~ : sd
+[Apr 9 20:01:51 2016][G] BeaTFanG : ISIS
+[Apr 9 20:01:51 2016][G] Shlzuku : I TOLD U!
+[Apr 9 20:01:57 2016][G] MaIdita : NA SD UNG LANE  
+[Apr 9 20:02:08 2016][G] Ruggedy AMD : SD mo ung EC nila sa labas
+[Apr 9 20:02:09 2016][G] Gestalt Zero : ok lang na TC ko sila sa labas
+[Apr 9 20:02:11 2016][G] i'm Good! : suira
+[Apr 9 20:02:22 2016][G] juni2Iog : wala pnuma
+[Apr 9 20:02:29 2016][G] Sumadartson~ : pneuma sa lane
+[Apr 9 20:02:30 2016][G] Sumadartson~ : pneuma sa lane
+[Apr 9 20:02:50 2016][G] Gestalt Zero : OK LANG HAHAH NATC KO SILA SA LABAS E
+[Apr 9 20:02:51 2016][G] MaIdita : NAG EC
+[Apr 9 20:02:52 2016][G] MaIdita : NAG EC 
+[Apr 9 20:02:53 2016][G] MaIdita : NAG EC  
+[Apr 9 20:02:53 2016][G] Sumadartson~ : nag ec
+[Apr 9 20:02:53 2016][G] Sumadartson~ : nag ec
+[Apr 9 20:02:56 2016][G] i'm Good! : ec ba yun o bwing hahahah
+[Apr 9 20:03:01 2016][G] Sumadartson~ : bwing ata
+[Apr 9 20:03:02 2016][G] Astro ~ Not : nag ec na dan
+[Apr 9 20:03:02 2016][G] Sumadartson~ : ahahaha
+[Apr 9 20:03:02 2016][G] Gestalt Zero : EC UN
+[Apr 9 20:03:03 2016][G] `Donna*** : bwing
+[Apr 9 20:03:03 2016][G] Gestalt Zero : HAHAHAHA
+[Apr 9 20:03:05 2016][G] Astro ~ Not : nag ec na dan
+[Apr 9 20:03:08 2016][G] Gestalt Zero : andami sa labas
+[Apr 9 20:03:08 2016][G] MaIdita : EC un
+[Apr 9 20:03:20 2016][G] [G]Ombel[X] : san yan banda?
+[Apr 9 20:03:40 2016][G] SetsunaSeiei08 : 1 vs 50 X-D
+[Apr 9 20:03:44 2016][G] MaIdita : pota deds
+[Apr 9 20:03:45 2016][G] Sumadartson~ : wasak sa as
+[Apr 9 20:03:46 2016][G] fusion_lumina : aww dami
+[Apr 9 20:03:46 2016][G] Ruggedy AMD : na lintik na haha
+[Apr 9 20:03:46 2016][G] i'm Good! : ubos ampota hahahahahahah
+[Apr 9 20:03:47 2016][G] i'm Good! : ubos ampota hahahahahahah 
+[Apr 9 20:03:48 2016][G] `Donna*** : wla na
+[Apr 9 20:03:50 2016][G] Ruggedy AMD : walang bantay sa naka lusot
+[Apr 9 20:03:51 2016][G] `Donna*** : dami hahaha
+[Apr 9 20:03:58 2016][G] Sumadartson~ : walang bantay sa mga sura nakaka lusot eh
+[Apr 9 20:03:58 2016][G] Sumadartson~ : walang bantay sa mga sura nakaka lusot eh
+[Apr 9 20:04:00 2016][G] MaIdita : wala tayong 2nd life??
+[Apr 9 20:04:00 2016][G] Ruggedy AMD : ec 
+[Apr 9 20:04:03 2016][G] MaIdita : wala tayong 2nd life?? EC?
+[Apr 9 20:04:07 2016][G] ~ Don Pedro ~ :  AKO NATIRA SA LOOB HAHHAHHAHA
+[Apr 9 20:04:08 2016][G] i'm Good! : AHAHHAHAAHAH
+[Apr 9 20:04:11 2016][G] Gestalt Zero : na deal gaming ako HAHAHA
+[Apr 9 20:04:14 2016][G] Smoke and Mirrors : 20:4 urpay no def
+[Apr 9 20:04:15 2016][G] MaIdita : wow...
+[Apr 9 20:04:17 2016][G] BeaTFanG :   /nt
+[Apr 9 20:04:19 2016][G] Sumadartson~ : 3 sura nakalusot walang humabol miski isa hahaha
+[Apr 9 20:04:20 2016][G] MaIdita : notrade ka
+[Apr 9 20:04:24 2016][G] MaIdita : ./notrade ka gestalt
+[Apr 9 20:04:25 2016][G] ~ Don Pedro ~ :  na mandra ako 
+[Apr 9 20:04:26 2016][G] Gestalt Zero : nawala pala /nt ko nag recon ako
+[Apr 9 20:04:27 2016][G] Ruggedy AMD : walang bantay
+[Apr 9 20:04:31 2016][G] fusion_lumina : urpay raw
+[Apr 9 20:04:32 2016][S] The [Melcedez] castle has been conquered by the [Perverts] guild.
+[Apr 9 20:04:33 2016][G] Astro ~ Not : sapa dan
+[Apr 9 20:04:34 2016][G] Ruggedy AMD : kumakaen ung SC at sura
+[Apr 9 20:04:35 2016][G] i'm Good! : ok lang yan
+[Apr 9 20:04:38 2016][G] i'm Good! : tayo naman susugod
+[Apr 9 20:04:38 2016][G] i'm Good! : tayo naman susugod 
+[Apr 9 20:04:40 2016][G] Ruggedy AMD : haha
+[Apr 9 20:04:43 2016][G] Gestalt Zero : tara tayo nmn susugod
+[Apr 9 20:04:44 2016][G] Smoke and Mirrors : 20:4 died at urpay
+[Apr 9 20:04:50 2016][S] The [Skoegul] castle has been conquered by the [Hobbits] guild.
+[Apr 9 20:06:05 2016][S] The [Rothenburg] castle has been conquered by the [- V I R u $ -] guild.
+[Apr 9 20:06:14 2016][S] The [Lazreagues] castle has been conquered by the [Swanity] guild.
+[Apr 9 20:06:34 2016][G] `Donna*** : si sindak nka gtb rin noh??
+[Apr 9 20:06:58 2016][G] god4sakenme : baps
+[Apr 9 20:07:33 2016][G] Smoke and Mirrors : 20:7 urpay no def
+[Apr 9 20:07:58 2016][G] Astro ~ Not : may 1 hour pa haha
+[Apr 9 20:08:06 2016][G] i'm Good! : haahhhHAAHHAAH
+[Apr 9 20:08:06 2016][G] Lord MackiLL_VA : delay n lag ka kaasar
+[Apr 9 20:08:06 2016][G] i'm Good! : BWISIT NA EF NAUNAHAN
+[Apr 9 20:08:19 2016][G] Smoke and Mirrors : 20:8 died at urpay
+[Apr 9 20:08:31 2016][S] The [Melcedez] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 20:08:31 2016][G] MaIdita : ung naka flying evil wing na sura EF type un. wag kau papadikit
+[Apr 9 20:08:33 2016][G] MaIdita : naka bclaw
+[Apr 9 20:08:36 2016][G] Gestalt Zero : EC 
+[Apr 9 20:09:06 2016][G] Gestalt Zero : wtf na SD
+[Apr 9 20:09:07 2016][G] Ruggedy AMD : wasak sa sd haha
+[Apr 9 20:09:07 2016][G] i'm Good! : AHAHAHH
+[Apr 9 20:09:08 2016][G] BeaTFanG : SD]
+[Apr 9 20:09:08 2016][G] [G]Ombel[X] : hahahahah
+[Apr 9 20:09:10 2016][G] Gestalt Zero : balik kayo
+[Apr 9 20:09:11 2016][G] Gestalt Zero : balik kayo
+[Apr 9 20:09:14 2016][G] TS_Cheeky_Angel : nangyari dun
+[Apr 9 20:09:17 2016][G] Astro ~ Not : isang sd lang hahaha
+[Apr 9 20:09:17 2016][G] [G]Ombel[X] : ubus agad 3/4
+[Apr 9 20:09:23 2016][G] Gestalt Zero : hahhaha
+[Apr 9 20:09:45 2016][G] [G]Ombel[X] : walang papasok emp w8 natin iba d2
+[Apr 9 20:09:58 2016][G] BeaTFanG : san ung agit na ec?
+[Apr 9 20:10:02 2016][G] Gestalt Zero : ulprt
+[Apr 9 20:10:02 2016][G] Gestalt Zero : ulprt
+[Apr 9 20:10:04 2016][G] Gestalt Zero : ulprt  
+[Apr 9 20:10:04 2016][G] Astro ~ Not : dito na pala cornstar
+[Apr 9 20:10:04 2016][G] Gestalt Zero : ulprt  
+[Apr 9 20:10:21 2016][G] Smoke and Mirrors : 20:10 urpay no def
+[Apr 9 20:10:23 2016][G] `Donna*** : nid ko bragi
+[Apr 9 20:10:32 2016][G] Smoke and Mirrors : 20:10 died at urpay
+[Apr 9 20:10:51 2016][G] i'm Good! : PA BRAG
+[Apr 9 20:11:21 2016][G] MaIdita : nakabalik ung SD nila sa loob
+[Apr 9 20:11:44 2016][G] i'm Good! : lugi tayo sa sc eh hahaha isa lang ata sc ntin
+[Apr 9 20:11:54 2016][S] The [Hohenschwangau] castle has been conquered by the [Regius] guild.
+[Apr 9 20:12:06 2016][S] The [Bergell] castle has been conquered by the [Hobbits] guild.
+[Apr 9 20:12:45 2016][G] Gestalt Zero : 1min ec na
+[Apr 9 20:12:54 2016][G] Gestalt Zero : PA FULL BUFFS NA KAYO
+[Apr 9 20:12:56 2016][G] `Donna*** : hahaa
+[Apr 9 20:13:12 2016][G] Sumadartson~ : dami sa ent
+[Apr 9 20:13:14 2016][G] i'm Good! : w2ag lapit ;lapiyt
+[Apr 9 20:13:14 2016][G] Sumadartson~ : mga 10 hobbits
+[Apr 9 20:13:17 2016][G] Gestalt Zero : MAY NL ka na?
+[Apr 9 20:13:20 2016][G] Ruggedy AMD : nag bantay cla sa ent
+[Apr 9 20:13:49 2016][G] fusion_lumina : mauubos na pots ko
+[Apr 9 20:13:50 2016][G] Sgt. Kururugi San : wait wag
+[Apr 9 20:13:51 2016][G] Sgt. Kururugi San : ec
+[Apr 9 20:13:53 2016][S] The [Swanhild] castle has been conquered by the [Perverts] guild.
+[Apr 9 20:14:07 2016][G] MaIdita : REGROUP NA DAW TAYO SABI NILA
+[Apr 9 20:14:10 2016][G] Gestalt Zero : EC
+[Apr 9 20:14:11 2016][G] Gestalt Zero : EC
+[Apr 9 20:14:13 2016][G] Sgt. Kururugi San : wait
+[Apr 9 20:14:35 2016][G] Sumadartson~ : tra sabay sabay
+[Apr 9 20:14:35 2016][G] Sumadartson~ : tra sabay sabay
+[Apr 9 20:14:39 2016][G] i'm Good! : may sd sila
+[Apr 9 20:14:40 2016][G] i'm Good! : may sd sila 
+[Apr 9 20:14:40 2016][G] i'm Good! : may sd sila  
+[Apr 9 20:14:43 2016][G] Ruggedy AMD : tra
+[Apr 9 20:14:43 2016][G] Gestalt Zero : STASIS MO SA LOOB
+[Apr 9 20:14:43 2016][G] Gestalt Zero : STASIS MO SA LOOB
+[Apr 9 20:14:52 2016][G] god4sakenme : na sd kona dun 4 patay 
+[Apr 9 20:14:53 2016][G] MaIdita : NAGFAIL UNG SD
+[Apr 9 20:14:53 2016][G] Astro ~ Not : sd fail pasok na
+[Apr 9 20:14:54 2016][G] Astro ~ Not : sd fail pasok na
+[Apr 9 20:14:56 2016][G] MaIdita : TARA
+[Apr 9 20:14:57 2016][G] Ruggedy AMD : nasanay xa e
+[Apr 9 20:14:57 2016][G] Sumadartson~ : go go gogo pasok
+[Apr 9 20:14:57 2016][G] Sumadartson~ : go go gogo pasok
+[Apr 9 20:14:58 2016][G] `Donna*** : okay na
+[Apr 9 20:15:01 2016][G] Sumadartson~ : go go gogo pasok pasok apsok pasok
+[Apr 9 20:15:01 2016][G] Ruggedy AMD : g
+[Apr 9 20:15:01 2016][G] Sumadartson~ : go go gogo pasok pasok apsok pasok
+[Apr 9 20:15:13 2016][G] Gestalt Zero : PASOK NA KAYO
+[Apr 9 20:15:13 2016][G] Gestalt Zero : PASOK NA KAYO
+[Apr 9 20:15:17 2016][G] MaIdita : ANO CODE??
+[Apr 9 20:15:19 2016][G] MaIdita : ANO CODE?? WARP?
+[Apr 9 20:15:24 2016][G] BeaTFanG : naddead ako agad...
+[Apr 9 20:15:24 2016][G] Gestalt Zero : ulprt
+[Apr 9 20:15:31 2016][S] The [Kendul] castle has been conquered by the [3OO] guild.
+[Apr 9 20:15:38 2016][G] Gestalt Zero : gulo natin pag suguran hahaha
+[Apr 9 20:15:45 2016][G] i'm Good! : eco may kuhanan ata ng mado sa eden
+[Apr 9 20:15:45 2016][G] Ruggedy AMD : haha
+[Apr 9 20:15:46 2016][G] i'm Good! : eco may kuhanan ata ng mado sa eden 
+[Apr 9 20:15:51 2016][G] Shlzuku : MAKINIG PO SA COMMAND
+[Apr 9 20:15:58 2016][G] Sgt. Kururugi San : dto na ko nagsave
+[Apr 9 20:16:00 2016][G] Astro ~ Not : donna kayo mo stasis?
+[Apr 9 20:16:01 2016][G] Sgt. Kururugi San : sa pront
+[Apr 9 20:16:13 2016][G] `Donna*** : bagal cast 
+[Apr 9 20:16:15 2016][G] `Donna*** : teka
+[Apr 9 20:16:35 2016][G] `Donna*** : COS NOH?
+[Apr 9 20:16:45 2016][G] Sgt. Kururugi San : mga sura try nyo takbuhin yung lane nila
+[Apr 9 20:16:46 2016][G] Sgt. Kururugi San : mga sura try nyo takbuhin yung lane nila
+[Apr 9 20:16:55 2016][G] Gestalt Zero : namatay ako non e
+[Apr 9 20:16:55 2016][G] MaIdita : ano code ng warp?
+[Apr 9 20:16:56 2016][G] Shlzuku : baps
+[Apr 9 20:16:57 2016][G] Gestalt Zero : sa next ec ko
+[Apr 9 20:17:02 2016][G] Charlotte Dunois : 20:17 died at uppay
+[Apr 9 20:17:04 2016][G] Gestalt Zero : d nyo binantayan ung sd e ako na sd
+[Apr 9 20:17:07 2016][G] MaIdita : save  natin EC sa 2nd life
+[Apr 9 20:17:14 2016][G] Smoke and Mirrors : 20:17 urpay no def
+[Apr 9 20:17:18 2016][G] MaIdita : mali ung warp BWING
+[Apr 9 20:17:22 2016][G] MaIdita : may nagpawarp sa mid
+[Apr 9 20:17:47 2016][G] Sumadartson~ : oo pati acce
+[Apr 9 20:18:00 2016][G] MaIdita : ano code ng warp? mali kami napasokan
+[Apr 9 20:18:11 2016][G] Smoke and Mirrors : 20:18 died at urpay
+[Apr 9 20:18:17 2016][G] i'm Good! : bwisit HAHA
+[Apr 9 20:18:22 2016][G] MaIdita : UL daw guys. wag mid or lower Right
+[Apr 9 20:18:29 2016][G] Astro ~ Not : uo
+[Apr 9 20:18:30 2016][S] The [Red Palace] castle has been conquered by the [pRO New Chaos] guild.
+[Apr 9 20:18:35 2016][G] i'm Good! : AHAHHAAHAHHAHA
+[Apr 9 20:18:37 2016][G] i'm Good! : ok na masaya na ako
+[Apr 9 20:19:11 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [Desperate Moves] guild.
+[Apr 9 20:19:47 2016][G] MaIdita : bat ayaw gumana nung ulprt?
+[Apr 9 20:20:30 2016][G] Gestalt Zero : tol ULPRT LANG
+[Apr 9 20:20:47 2016][S] The [Hohenschwangau] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 20:20:54 2016][G] Sumadartson~ : IPON NGA TAYO LAHAT SA LABAS NG AGIT SA ULPRT. SABAY SABAY
+[Apr 9 20:20:54 2016][G] `Donna*** : yan okay na cast ko
+[Apr 9 20:20:55 2016][G] Sumadartson~ : IPON NGA TAYO LAHAT SA LABAS NG AGIT SA ULPRT. SABAY SABAY
+[Apr 9 20:20:55 2016][G] Sumadartson~ : IPON NGA TAYO LAHAT SA LABAS NG AGIT SA ULPRT. SABAY SABAY 
+[Apr 9 20:20:56 2016][G] Sumadartson~ : IPON NGA TAYO LAHAT SA LABAS NG AGIT SA ULPRT. SABAY SABAY  
+[Apr 9 20:20:57 2016][G] Smoke and Mirrors : 20:20 urpay no def
+[Apr 9 20:21:07 2016][G] Charlotte Dunois : 20:21 uppay no def
+[Apr 9 20:21:09 2016][G] Gestalt Zero : wag na sa ibang agit 
+[Apr 9 20:21:13 2016][G] MaIdita : may defense sa entrance ng ULPRT
+[Apr 9 20:21:23 2016][G] Smoke and Mirrors : 20:21 died at urpay
+[Apr 9 20:21:36 2016][G] i'm Good! : di nagana yung warp?
+[Apr 9 20:21:40 2016][G] Sumadartson~ : ASAN KAYO?????????? UPPER LEFT PRONTERA NGA EH SABAY SABAY
+[Apr 9 20:21:40 2016][G] Sumadartson~ : ASAN KAYO?????????? UPPER LEFT PRONTERA NGA EH SABAY SABAY
+[Apr 9 20:21:48 2016][G] MaIdita : MAY defense sa entrance
+[Apr 9 20:21:49 2016][G] MaIdita : hirap makapasok
+[Apr 9 20:22:07 2016][G] TS_Cheeky_Angel : kla q ba sabay sbay
+[Apr 9 20:22:10 2016][S] The [Bergell] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 20:22:24 2016][G] Sumadartson~ : UL PRT SABAY SABAY TAYO PASOK
+[Apr 9 20:22:25 2016][G] Sumadartson~ : UL PRT SABAY SABAY TAYO PASOK
+[Apr 9 20:22:36 2016][S] The [Swanhild] castle has been conquered by the [pRO New Chaos] guild.
+[Apr 9 20:22:37 2016][G] Gestalt Zero : ULPRT LANG WAG WARP SA IBA
+[Apr 9 20:22:37 2016][G] Gestalt Zero : ULPRT LANG WAG WARP SA IBA
+[Apr 9 20:22:38 2016][G] Gestalt Zero : ULPRT LANG WAG WARP SA IBA  
+[Apr 9 20:22:39 2016][G] Gestalt Zero : ULPRT LANG WAG WARP SA IBA  
+[Apr 9 20:22:44 2016][S] The [Neuschwanstein] castle has been conquered by the [Desperate Moves] guild.
+[Apr 9 20:22:46 2016][G] `Donna*** : pde na cast ko
+[Apr 9 20:22:48 2016][G] Smoke and Mirrors : 20:22 urpay no def
+[Apr 9 20:22:55 2016][G] Smoke and Mirrors : 20:22 died at urpay
+[Apr 9 20:23:04 2016][G] [G]Ombel[X] : potah kinakawawa tau hahaha
+[Apr 9 20:23:08 2016][G] Charlotte Dunois : 20:23 died at uppay
+[Apr 9 20:23:25 2016][G] Sir Breth Colgate` : ayaw nila magwarp. :(
+[Apr 9 20:23:36 2016][G] c0rnstar : game
+[Apr 9 20:23:41 2016][G] Sumadartson~ : ayaw mag waerp
+[Apr 9 20:23:42 2016][G] Sumadartson~ : ahahahha luge
+[Apr 9 20:23:53 2016][G] i'm Good! : hahah bwisit na mandra
+[Apr 9 20:24:01 2016][G] Gestalt Zero : wew
+[Apr 9 20:24:05 2016][G] MaIdita : di kami makapasok
+[Apr 9 20:24:08 2016][G] MaIdita : dami defense sa entrance
+[Apr 9 20:24:15 2016][G] MaIdita : complete jobs
+[Apr 9 20:24:20 2016][G] Smoke and Mirrors : 20:24 urpay no def
+[Apr 9 20:24:23 2016][G] Gestalt Zero : ayaw kame i warp e
+[Apr 9 20:24:27 2016][G] Sumadartson~ : ec mo nlng kami sa emp dan hahahah marami saknila nsa ent e
+[Apr 9 20:24:45 2016][G] Smoke and Mirrors : 20:24 died at urpay
+[Apr 9 20:25:02 2016][S] The [Red Palace] castle has been conquered by the [Swanity] guild.
+[Apr 9 20:25:33 2016][G] Gestalt Zero : EC
+[Apr 9 20:25:47 2016][G] `Donna*** : ec daw
+[Apr 9 20:25:49 2016][G] i'm Good! : di nadeds hahaha
+[Apr 9 20:25:49 2016][G] Gestalt Zero : WALANG BUMABALIK
+[Apr 9 20:25:51 2016][G] Gestalt Zero : SA ULPRT E
+[Apr 9 20:25:59 2016][G] Sumadartson~ : iba iba warp e
+[Apr 9 20:26:01 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 20:26:03 2016][S] The [Kendul] castle has been conquered by the [Syntax Error] guild.
+[Apr 9 20:26:10 2016][G] WL Jemar : penge supps sorry late
+[Apr 9 20:26:17 2016][G] Smoke and Mirrors : 20:26 urpay no def
+[Apr 9 20:26:19 2016][S] The [Hohenschwangau] castle has been conquered by the [Desperate Moves] guild.
+[Apr 9 20:26:24 2016][G] god4sakenme : game may sd
+[Apr 9 20:26:51 2016][G] Ruggedy AMD : vini video tayo nyan malamang haha
+[Apr 9 20:26:54 2016][G] Smoke and Mirrors : 20:26 died at urpay
+[Apr 9 20:26:54 2016][G] god4sakenme : go na kayo kaka sd lang
+[Apr 9 20:26:58 2016][G] Shlzuku : ANU NANG NANGYAYARI SA ATIN????
+[Apr 9 20:27:07 2016][G] Sgt. Kururugi San : pa ec nlng hahaahah
+[Apr 9 20:27:11 2016][G] MaIdita : ayaw kasi gumana nung warp ng ulprt
+[Apr 9 20:27:14 2016][G] MaIdita : hirap makabalik
+[Apr 9 20:27:21 2016][G] Sir Breth Colgate` : hirap. :(
+[Apr 9 20:27:33 2016][G] Sir Breth Colgate` : ayaw po magwarp ng ULPRT
+[Apr 9 20:27:42 2016][G] Gestalt Zero : HINAHABOL NMA AKO AYAW NYO PADIN PUMASOK
+[Apr 9 20:27:47 2016][G] Gestalt Zero : HINAHABOL NMA AKO AYAW NYO PADIN PUMASOK 
+[Apr 9 20:27:47 2016][G] Gestalt Zero : HINAHABOL NMA AKO AYAW NYO PADIN PUMASOK 
+[Apr 9 20:27:59 2016][G] MaIdita : pawarp nalang kau sa midprt tapos lakad pa upper left
+[Apr 9 20:28:06 2016][G] god4sakenme : baps
+[Apr 9 20:28:10 2016][G] Charlotte Dunois : 20:28 uppay no def
+[Apr 9 20:28:13 2016][G] Ruggedy AMD : pasok
+[Apr 9 20:28:15 2016][G] Gestalt Zero : HINAHABOL NA NILA AKO SA LOOB NAKATAMBAY PADIN KAYO SA LABAS
+[Apr 9 20:28:25 2016][G] Ruggedy AMD : pasok na
+[Apr 9 20:28:26 2016][G] Gestalt Zero : DI TALAG ATAYO MAKAKAPASOK
+[Apr 9 20:28:27 2016][G] Ruggedy AMD : wala na def sa ent
+[Apr 9 20:28:31 2016][G] Gestalt Zero : DI TALAG ATAYO MAKAKAPASOK KUNG HINDI KAYO PAPASOK
+[Apr 9 20:28:46 2016][G] Sumadartson~ : kung san san nagpapawarp iba e
+[Apr 9 20:28:46 2016][G] Sumadartson~ : kung san san nagpapawarp iba e
+[Apr 9 20:29:13 2016][G] i'm Good! : sa iba na tayo
+[Apr 9 20:29:22 2016][S] The [Bergell] castle has been conquered by the [pRO New Chaos] guild.
+[Apr 9 20:29:35 2016][G] Astro ~ Not : di nagana ulprt
+[Apr 9 20:29:41 2016][G] Sumadartson~ : last try nlng
+[Apr 9 20:29:43 2016][G] Sumadartson~ : last ec hahaha
+[Apr 9 20:29:43 2016][G] c0rnstar : pano FCP
+[Apr 9 20:29:44 2016][G] c0rnstar : pano FCP
+[Apr 9 20:29:45 2016][S] The [Nuernberg] castle has been conquered by the [Regius] guild.
+[Apr 9 20:29:47 2016][G] `Donna*** : ./gawi
+[Apr 9 20:29:52 2016][G] `Donna*** : 8:29
+[Apr 9 20:29:55 2016][S] The [Neuschwanstein] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 20:30:05 2016][G] god4sakenme : cd pa sd w8 lang
+[Apr 9 20:30:39 2016][G] i'm Good! : stasis
+[Apr 9 20:30:41 2016][G] i'm Good! : stasis 
+[Apr 9 20:30:42 2016][G] i'm Good! : stasis  
+[Apr 9 20:30:42 2016][G] i'm Good! : stasis   
+[Apr 9 20:30:47 2016][G] Gestalt Zero : MA SD KAYO JAN 
+[Apr 9 20:30:50 2016][G] Astro ~ Not : una sd stasis
+[Apr 9 20:30:50 2016][G] c0rnstar : PASOK
+[Apr 9 20:30:51 2016][G] c0rnstar : PASOK
+[Apr 9 20:30:57 2016][G] Sumadartson~ : pasok
+[Apr 9 20:30:58 2016][G] Sumadartson~ : pasok
+[Apr 9 20:31:03 2016][G] `Donna*** : wala backup
+[Apr 9 20:31:05 2016][G] Sgt. Kururugi San : g pasok
+[Apr 9 20:31:05 2016][G] Sgt. Kururugi San : g pasok
+[Apr 9 20:31:25 2016][G] Sgt. Kururugi San : MNA SD KO NA
+[Apr 9 20:31:26 2016][G] Sgt. Kururugi San : MNA SD KO NA
+[Apr 9 20:31:29 2016][G] BeaTFanG : marami sila pang def
+[Apr 9 20:31:30 2016][S] The [Rothenburg] castle has been conquered by the [pRO New Chaos] guild.
+[Apr 9 20:31:31 2016][G] Gestalt Zero : P0ASOK NA
+[Apr 9 20:31:31 2016][G] Gestalt Zero : P0ASOK NA
+[Apr 9 20:31:32 2016][G] Gestalt Zero : P0ASOK NA  
+[Apr 9 20:31:32 2016][G] Gestalt Zero : P0ASOK NA  
+[Apr 9 20:31:33 2016][G] Sumadartson~ : SABOGF NA YUN
+[Apr 9 20:31:33 2016][G] BeaTFanG : ranger 
+[Apr 9 20:31:35 2016][G] Sumadartson~ : NA SD NA LANE
+[Apr 9 20:31:36 2016][G] Sumadartson~ : NA SD NA LANE
+[Apr 9 20:31:38 2016][G] Shlzuku : GRABE SA DAMI AT DAMI DING AFK S ATIN HAHAHAH
+[Apr 9 20:31:47 2016][S] The [Swanhild] castle has been conquered by the [Hobbits] guild.
+[Apr 9 20:32:22 2016][G] `Donna*** : oras ng woe saka kakakean @_@
+[Apr 9 20:32:57 2016][G] [AOA] Dec. 16 : aw
+[Apr 9 20:33:40 2016][G] WL Jemar : penge supps at pasali party mga koya
+[Apr 9 20:34:00 2016][G] `Donna*** : start na ng woe wla na mag bbigay
+[Apr 9 20:34:04 2016][G] BeaTFanG : ano ba code sa ulprt?
+[Apr 9 20:34:21 2016][G] Charlotte Dunois : 20:34 uppay no def
+[Apr 9 20:34:24 2016][G] Gestalt Zero : nakakahiya hahaha
+[Apr 9 20:34:26 2016][S] The [Jyolbriger] castle has been conquered by the [MouseHunt Gaming.] guild.
+[Apr 9 20:34:33 2016][G] Gestalt Zero : niyaya ko pa d na tayo bumalik
+[Apr 9 20:34:33 2016][G] Ruggedy AMD : haha
+[Apr 9 20:34:53 2016][G] Charlotte Dunois : 20:34 died at uppay
+[Apr 9 20:35:26 2016][S] The [Red Palace] castle has been conquered by the [pRO New Chaos] guild.
+[Apr 9 20:36:04 2016][S] The [Rothenburg] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 20:36:57 2016][G] i'm Good! : SD stasis
+[Apr 9 20:36:58 2016][G] Sgt. Kururugi San : GO PASOK AGAD AGAD PARA DI NA MASD
+[Apr 9 20:36:59 2016][G] i'm Good! : SD stasis 
+[Apr 9 20:36:59 2016][G] Sgt. Kururugi San : GO PASOK AGAD AGAD PARA DI NA MASD
+[Apr 9 20:36:59 2016][G] i'm Good! : SD stasis  
+[Apr 9 20:37:00 2016][G] Sgt. Kururugi San : GO PASOK AGAD AGAD PARA DI NA MASD 
+[Apr 9 20:37:02 2016][G] Gestalt Zero : wala na
+[Apr 9 20:37:04 2016][G] Gestalt Zero : iniwan na nila
+[Apr 9 20:37:07 2016][G] Gestalt Zero : sadlife 
+[Apr 9 20:37:12 2016][G] Sir Breth Colgate` : pasoik la tao sa loob
+[Apr 9 20:37:12 2016][G] Sir Breth Colgate` : pasoik la tao sa loob
+[Apr 9 20:37:15 2016][G] `Donna*** : ew
+[Apr 9 20:37:16 2016][G] Sir Breth Colgate` : pasoik la tao sa loob.
+[Apr 9 20:37:31 2016][S] The [Nuernberg] castle has been conquered by the [Desperate Moves] guild.
+[Apr 9 20:37:31 2016][G] Ruggedy AMD : anyre haha
+[Apr 9 20:37:38 2016][G] MaIdita : pinapasok ata tau
+[Apr 9 20:37:41 2016][G] Gestalt Zero : 30min kase tayo
+[Apr 9 20:37:48 2016][G] MaIdita : basagin ba?
+[Apr 9 20:37:50 2016][G] Gestalt Zero : 30min kase natin sila pinagantay
+[Apr 9 20:37:54 2016][G] i'm Good! : basgain niyo na
+[Apr 9 20:38:03 2016][G] Gestalt Zero : nahiya ako haha niyaya ko pa tapos ganun annyari
+[Apr 9 20:38:06 2016][G] Ruggedy AMD : pag mag EC cla sa labas
+[Apr 9 20:38:08 2016][G] Ruggedy AMD : SD nyo rin
+[Apr 9 20:38:10 2016][S] The [Bergell] castle has been conquered by the [Swanity] guild.
+[Apr 9 20:38:11 2016][G] c0rnstar : es maam
+[Apr 9 20:38:12 2016][G] c0rnstar : es maam
+[Apr 9 20:38:14 2016][S] The [Skoegul] castle has been conquered by the [Syntax Error] guild.
+[Apr 9 20:38:15 2016][G] ''r0k0r0ko" : 22 mins
+[Apr 9 20:38:16 2016][G] i'm Good! : pano makakalaro
+[Apr 9 20:38:20 2016][G] i'm Good! : di ka nga pinapa ec
+[Apr 9 20:38:20 2016][G] Ruggedy AMD : sabihin mo ndi maka pasok may bantay haha
+[Apr 9 20:38:23 2016][G] i'm Good! : lagi nag hahabol
+[Apr 9 20:38:24 2016][G] ''r0k0r0ko" : 8:38
+[Apr 9 20:38:25 2016][G] Ruggedy AMD : oo nga
+[Apr 9 20:38:28 2016][G] Astro ~ Not : pahiya naman tayo haha
+[Apr 9 20:38:28 2016][G] Ruggedy AMD : dapat pina pa EC ka nun
+[Apr 9 20:38:29 2016][G] Gestalt Zero : syempre papatayin niyo kase
+[Apr 9 20:38:30 2016][G] Ruggedy AMD : bogok pla cla e
+[Apr 9 20:38:31 2016][G] Gestalt Zero : ung humahabol
+[Apr 9 20:38:34 2016][G] Astro ~ Not : ok lang yan
+[Apr 9 20:38:38 2016][G] Gestalt Zero : ano yun aantayin niyo ako
+[Apr 9 20:38:38 2016][G] Charlotte Dunois : 20:38 uppay no def
+[Apr 9 20:38:39 2016][G] Gestalt Zero : maka ec
+[Apr 9 20:38:41 2016][G] Gestalt Zero : bago kayo susugod
+[Apr 9 20:38:42 2016][G] Sumadartson~ : PAKITANGGAL LP SA ENT
+[Apr 9 20:38:42 2016][G] i'm Good! : di naman naten pinapatay pag sila mag e ec
+[Apr 9 20:38:45 2016][G] i'm Good! : kaya nga laro eh
+[Apr 9 20:38:45 2016][G] Ruggedy AMD : haha
+[Apr 9 20:38:51 2016][G] i'm Good! : kaumay
+[Apr 9 20:38:54 2016][G] Gestalt Zero : may laban bang patas haha
+[Apr 9 20:38:55 2016][G] [AOA] Dec. 16 : wag ka dyan 
+[Apr 9 20:38:57 2016][G] Sir Breth Colgate` : sali po PT
+[Apr 9 20:38:58 2016][G] Ruggedy AMD : pabalikin mo na kamo haha
+[Apr 9 20:39:00 2016][G] Sir Breth Colgate` : pamagni lang
+[Apr 9 20:39:03 2016][G] i'm Good! : sus
+[Apr 9 20:39:06 2016][G] Charlotte Dunois : 20:39 died at uppay
+[Apr 9 20:39:08 2016][G] Ruggedy AMD : bukas laban ni paquiao
+[Apr 9 20:39:10 2016][G] Sir Breth Colgate` : ty
+[Apr 9 20:39:10 2016][G] i'm Good! : habulin niyo din kung andyan gm
+[Apr 9 20:39:22 2016][G] MaIdita : cnu ba Gm nila
+[Apr 9 20:39:22 2016][G] ''r0k0r0ko" : gala muna ko
+[Apr 9 20:39:24 2016][S] The [Arbor of Light] castle has been conquered by the [pRO New Chaos] guild.
+[Apr 9 20:39:32 2016][G] Astro ~ Not : ayaw na ba nila sa emblem natin?
+[Apr 9 20:39:38 2016][G] Sumadartson~ : HANAP GERA DAN AHAHHA
+[Apr 9 20:39:51 2016][G] `Donna*** : NAUMAY SA EMBLEM
+[Apr 9 20:39:52 2016][G] i'm Good! : damASTER
+[Apr 9 20:39:53 2016][G] c0rnstar : lang mins pa
+[Apr 9 20:39:54 2016][G] c0rnstar : lang mins pa
+[Apr 9 20:39:56 2016][G] MaIdita : HAHA
+[Apr 9 20:40:00 2016][S] The [Swanhild] castle has been conquered by the [pRO New Chaos] guild.
+[Apr 9 20:40:00 2016][S] The [Kendul] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 20:40:02 2016][G] Lord MackiLL_VA : anjan na
+[Apr 9 20:40:03 2016][G] MaIdita : simpleng banat si chox
+[Apr 9 20:40:10 2016][G] Ruggedy AMD : aya na
+[Apr 9 20:40:40 2016][G] Sumadartson~ : BAT ANG ONTI NATIN
+[Apr 9 20:40:56 2016][G] Sir Breth Colgate` : 30 tayo online. :) haha
+[Apr 9 20:41:04 2016][G] Sumadartson~ : DAMING DUAL AHHAHA
+[Apr 9 20:41:04 2016][G] Charlotte Dunois : 20:41 uppay no def
+[Apr 9 20:41:04 2016][G] MaIdita : 30 ang online bat parang konti nga nasa screen lol
+[Apr 9 20:41:12 2016][S] The [Neuschwanstein] castle has been conquered by the [Hobbits] guild.
+[Apr 9 20:41:24 2016][G] Sumadartson~ : 30. 5 ANG DUAL 5 ANG AFK
+[Apr 9 20:41:26 2016][G] `Donna*** : meron nako warp ulprt
+[Apr 9 20:41:33 2016][G] Charlotte Dunois : 20:41 died at uppay
+[Apr 9 20:41:34 2016][G] Gestalt Zero : wala nasugod
+[Apr 9 20:41:38 2016][G] Sumadartson~ : OH SURA O
+[Apr 9 20:41:51 2016][G] Ruggedy AMD : waalng bantay haha
+[Apr 9 20:42:04 2016][G] [AOA] Dec. 16 : baps
+[Apr 9 20:42:05 2016][G] Sgt. Kururugi San : TANGINA KITA NYO BA SD KO
+[Apr 9 20:42:05 2016][G] Sir Breth Colgate` : ubos nanaman
+[Apr 9 20:42:07 2016][G] Sgt. Kururugi San : TANGINA KITA NYO BA SD KO
+[Apr 9 20:42:10 2016][G] c0rnstar : pano yung payon mid
+[Apr 9 20:42:11 2016][G] c0rnstar : pano yung payon mid
+[Apr 9 20:42:30 2016][G] Gestalt Zero : gg nice game hahaha
+[Apr 9 20:42:32 2016][G] i'm Good! : 15Mmins
+[Apr 9 20:42:32 2016][S] The [Rothenburg] castle has been conquered by the [Desperate Moves] guild.
+[Apr 9 20:42:35 2016][G] Ruggedy AMD : bat nasa payon?
+[Apr 9 20:42:42 2016][G] Sir Breth Colgate` : iba na tayo??
+[Apr 9 20:42:42 2016][G] Sumadartson~ : AHAHAHAH 15 ATA NAMATAY SA SD KO
+[Apr 9 20:42:44 2016][G] Sumadartson~ : KASO WALA PADIN
+[Apr 9 20:42:51 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 20:42:55 2016][S] The [Hohenschwangau] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 20:43:18 2016][S] The [Jyolbriger] castle has been conquered by the [Swanity] guild.
+[Apr 9 20:43:32 2016][G] Ruggedy AMD : luge rin sa dami haha
+[Apr 9 20:43:47 2016][S] The [Skoegul] castle has been conquered by the [Hobbits] guild.
+[Apr 9 20:44:00 2016][G] ''r0k0r0ko" : 17 mins
+[Apr 9 20:44:41 2016][G] c0rnstar : tulong
+[Apr 9 20:44:42 2016][G] [GX] Casper24 : nabasag ako
+[Apr 9 20:44:50 2016][G] c0rnstar : alde UPR
+[Apr 9 20:44:51 2016][G] Gestalt Zero : haahha
+[Apr 9 20:44:54 2016][G] Gestalt Zero : alde kunin
+[Apr 9 20:44:59 2016][G] Ruggedy AMD : alde lr
+[Apr 9 20:45:02 2016][S] The [Lazreagues] castle has been conquered by the [pRO New Chaos] guild.
+[Apr 9 20:45:02 2016][G] c0rnstar : URALDE
+[Apr 9 20:45:03 2016][G] c0rnstar : URALDE
+[Apr 9 20:45:08 2016][G] Sir Breth Colgate` : URALDE
+[Apr 9 20:45:11 2016][G] Astro ~ Not : alde daw
+[Apr 9 20:45:13 2016][G] c0rnstar : tulong
+[Apr 9 20:45:15 2016][G] [GX] Casper24 : lower prt rigth
+[Apr 9 20:45:17 2016][G] i'm Good! : ur?
+[Apr 9 20:45:18 2016][G] 'Dark ulinG' : dan pasundo
+[Apr 9 20:45:23 2016][G] [GX] Casper24 : la tao
+[Apr 9 20:45:32 2016][G] MaIdita : papunta savepoint?
+[Apr 9 20:45:41 2016][G] 'Dark ulinG' : opo eden nalang
+[Apr 9 20:45:42 2016][G] c0rnstar : wala kiler dito sakin
+[Apr 9 20:45:42 2016][S] The [Arbor of Light] castle has been conquered by the [Swanity] guild.
+[Apr 9 20:45:44 2016][S] The [Nuernberg] castle has been conquered by the [Regius] guild.
+[Apr 9 20:45:46 2016][G] MaIdita : eden sofa po left side
+[Apr 9 20:45:48 2016][G] c0rnstar : wala kiler dito sakin
+[Apr 9 20:45:51 2016][G] c0rnstar : killer
+[Apr 9 20:45:59 2016][G] Ruggedy AMD : san
+[Apr 9 20:46:00 2016][G] MaIdita : eden sofa po left side dark uling
+[Apr 9 20:46:12 2016][S] The [Red Palace] castle has been conquered by the [Swanity] guild.
+[Apr 9 20:46:17 2016][G] ''r0k0r0ko" : 14 mins pa
+[Apr 9 20:46:18 2016][S] The [Swanhild] castle has been conquered by the [Swanity] guild.
+[Apr 9 20:46:56 2016][G] Gestalt Zero : EC
+[Apr 9 20:47:25 2016][G] Gestalt Zero : RECON NA KAYO CORNSTAR OMBEL CASPER BASAG KAYO SA ULALD 
+[Apr 9 20:47:25 2016][G] Gestalt Zero : RECON NA KAYO CORNSTAR OMBEL CASPER BASAG KAYO SA ULALD 
+[Apr 9 20:47:37 2016][G] Astro ~ Not : SAMA KA NA RIN MCHILL
+[Apr 9 20:47:45 2016][S] The [Neuschwanstein] castle has been conquered by the [Syntax Error] guild.
+[Apr 9 20:47:55 2016][G] Astro ~ Not : breaker kalat
+[Apr 9 20:48:00 2016][G] Sgt. Kururugi San : ANONG AGIT TO
+[Apr 9 20:48:07 2016][G] Gestalt Zero : LLALD YAN
+[Apr 9 20:48:08 2016][G] i'm Good! : llalde
+[Apr 9 20:48:08 2016][G] Gestalt Zero : LLALD YAN
+[Apr 9 20:48:14 2016][G] Sir Breth Colgate` : lladle daw
+[Apr 9 20:48:59 2016][G] Gestalt Zero : rics dito
+[Apr 9 20:49:19 2016][G] Charlotte Dunois : 20:49 uppay no def
+[Apr 9 20:49:56 2016][G] Charlotte Dunois : 20:49 died at uppay
+[Apr 9 20:50:07 2016][S] The [Rothenburg] castle has been conquered by the [Hobbits] guild.
+[Apr 9 20:50:10 2016][G] Gestalt Zero : rico mid ald
+[Apr 9 20:50:18 2016][G] c0rnstar : bawas bawas  na kanina pa yan
+[Apr 9 20:50:49 2016][G] 'Dark ulinG' : hanggang anpng oras woe?
+[Apr 9 20:50:54 2016][G] Sumadartson~ : 9
+[Apr 9 20:50:55 2016][G] Gestalt Zero : 9
+[Apr 9 20:50:56 2016][G] `Donna*** : 51
+[Apr 9 20:50:57 2016][G] `Donna*** : 9mins nlng
+[Apr 9 20:51:06 2016][G] 'Dark ulinG' : kaya isa pa dan?
+[Apr 9 20:51:10 2016][G] TS_Cheeky_Angel : try q bantayan itong alde hehe
+[Apr 9 20:51:16 2016][S] The [Lazreagues] castle has been conquered by the [3OO] guild.
+[Apr 9 20:52:03 2016][G] Charlotte Dunois : 20:52 died at uppay
+[Apr 9 20:52:47 2016][G] TS_Cheeky_Angel : alde ma nasguod
+[Apr 9 20:52:50 2016][G] TS_Cheeky_Angel : ung nbsag anina
+[Apr 9 20:52:52 2016][G] 'Dark ulinG' : baps please
+[Apr 9 20:52:54 2016][G] 'Dark ulinG' : baps please
+[Apr 9 20:52:58 2016][G] 'Dark ulinG' : pasali nalang party
+[Apr 9 20:53:51 2016][G] Ruggedy AMD : ayan hobbits
+[Apr 9 20:53:53 2016][G] i'm Good! : saan yan cheeky
+[Apr 9 20:53:53 2016][S] The [Nuernberg] castle has been conquered by the [Syntax Error] guild.
+[Apr 9 20:53:53 2016][G] fusion_lumina : good job
+[Apr 9 20:53:54 2016][G] i'm Good! : saan yan cheeky 
+[Apr 9 20:53:55 2016][G] i'm Good! : saan yan cheeky  
+[Apr 9 20:53:56 2016][G] Gestalt Zero : alin binabasg ng hobbits
+[Apr 9 20:54:00 2016][G] c0rnstar : tara sa ulalde
+[Apr 9 20:54:01 2016][G] c0rnstar : tara sa ulalde
+[Apr 9 20:54:02 2016][G] Charlotte Dunois : 20:54 uppay no def
+[Apr 9 20:54:03 2016][G] MaIdita : dragon warp 
+[Apr 9 20:54:03 2016][G] TS_Cheeky_Angel : ung binsag kanina sa alde
+[Apr 9 20:54:06 2016][G] i'm Good! : ulalde
+[Apr 9 20:54:08 2016][G] Charlotte Dunois : 20:54 died at uppay
+[Apr 9 20:54:10 2016][G] Gestalt Zero : go sugurin nyo
+[Apr 9 20:54:10 2016][G] i'm Good! : ll alde
+[Apr 9 20:54:10 2016][G] i'm Good! : ll alde 
+[Apr 9 20:54:11 2016][G] i'm Good! : ll alde  
+[Apr 9 20:54:12 2016][G] i'm Good! : ll alde   
+[Apr 9 20:54:14 2016][G] Shlzuku : NEED BACK UP S LR alde
+[Apr 9 20:54:15 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [Desperate Moves] guild.
+[Apr 9 20:54:15 2016][G] i'm Good! : def
+[Apr 9 20:54:30 2016][G] 'Dark ulinG' : dan san yun?
+[Apr 9 20:54:34 2016][G] ''r0k0r0ko" : secured na tayo ng agit haha
+[Apr 9 20:54:36 2016][G] ''r0k0r0ko" : 6 mins
+[Apr 9 20:54:40 2016][G] `Donna*** : d umakyat ung bragi eh
+[Apr 9 20:54:41 2016][G] [GX] Casper24 : 6mins
+[Apr 9 20:54:42 2016][G] i'm Good! : aw
+[Apr 9 20:54:47 2016][G] Astro ~ Not : nag ec hobbits ah
+[Apr 9 20:54:53 2016][G] Gestalt Zero : san nag ec
+[Apr 9 20:54:54 2016][G] Gestalt Zero : san nag ec
+[Apr 9 20:54:54 2016][G] Sir Breth Colgate` : ULPRT??
+[Apr 9 20:54:58 2016][G] Ruggedy AMD : LLalde
+[Apr 9 20:55:01 2016][G] Sir Breth Colgate` : NAGEC sa LLALDE
+[Apr 9 20:55:01 2016][G] `Donna*** : llalde
+[Apr 9 20:55:02 2016][G] Shlzuku : ALA DE S ALDE LR
+[Apr 9 20:55:02 2016][G] BeaTFanG : alde un\
+[Apr 9 20:55:04 2016][G] [GX] Casper24 : 6mins
+[Apr 9 20:55:05 2016][G] Ruggedy AMD : LLalde
+[Apr 9 20:55:07 2016][G] TS_Cheeky_Angel : sugurin nyo na pront nila
+[Apr 9 20:55:10 2016][G] Gestalt Zero : ppnta nako aldelr
+[Apr 9 20:55:11 2016][G] c0rnstar : pano buffs
+[Apr 9 20:55:13 2016][G] 'Dark ulinG' : san warper?
+[Apr 9 20:55:13 2016][S] The [Kendul] castle has been conquered by the [Desperate Moves] guild.
+[Apr 9 20:55:17 2016][G] ''r0k0r0ko" : saan tayu?
+[Apr 9 20:55:23 2016][G] [GX] Casper24 : 5mins
+[Apr 9 20:55:25 2016][G] MaIdita : san ka gestalt??
+[Apr 9 20:55:31 2016][G] Gestalt Zero : reresponde
+[Apr 9 20:55:32 2016][G] [GX] Casper24 : 5mins
+[Apr 9 20:55:33 2016][G] MaIdita : stay lng ako sa emp room?
+[Apr 9 20:55:33 2016][G] Sir Breth Colgate` : DI AKO MAKAGALAW. BAKIT?!
+[Apr 9 20:55:47 2016][S] The [Skoegul] castle has been conquered by the [Swanity] guild.
+[Apr 9 20:55:51 2016][G] Sir Breth Colgate` : DI AKO MAKALAD. BALDADO. :(
+[Apr 9 20:55:55 2016][S] The [Neuschwanstein] castle has been conquered by the [Hobbits] guild.
+[Apr 9 20:56:05 2016][G] TS_Cheeky_Angel : need back up papunta hobbits
+[Apr 9 20:56:07 2016][G] Charlotte Dunois : 20:56 uppay no def
+[Apr 9 20:56:12 2016][G] Gestalt Zero : san yan
+[Apr 9 20:56:15 2016][G] Charlotte Dunois : 20:56 died at uppay
+[Apr 9 20:56:26 2016][G] [GX] Casper24 : 4mins
+[Apr 9 20:56:37 2016][G] Sumadartson~ : EC DAN HAAHHA
+[Apr 9 20:56:40 2016][G] MaIdita : deds ako dun sa kanina gestalt
+[Apr 9 20:56:46 2016][G] Gestalt Zero : sino sumugod
+[Apr 9 20:56:51 2016][G] TS_Cheeky_Angel : alde hobts
+[Apr 9 20:56:56 2016][G] Ruggedy AMD : alde mid
+[Apr 9 20:56:57 2016][G] Sir Breth Colgate` : saan na po tayo??
+[Apr 9 20:57:00 2016][G] Ruggedy AMD : kinukuha nila alde
+[Apr 9 20:57:04 2016][G] Gestalt Zero : alde mid
+[Apr 9 20:57:06 2016][G] `Donna*** : llprt samin na
+[Apr 9 20:57:09 2016][G] ''r0k0r0ko" : mid alde hobbits
+[Apr 9 20:57:15 2016][G] Shlzuku : ala na
+[Apr 9 20:57:15 2016][G] [GX] Casper24 : 3mins
+[Apr 9 20:57:20 2016][G] Shlzuku : sabi q need back up sa alde LR
+[Apr 9 20:57:28 2016][S] The [Jyolbriger] castle has been conquered by the [pRO New Chaos] guild.
+[Apr 9 20:57:31 2016][G] Astro ~ Not : z
+[Apr 9 20:57:40 2016][G] i'm Good! : basag dali
+[Apr 9 20:57:56 2016][G] Sumadartson~ : POTA DIAMOND DUST
+[Apr 9 20:58:10 2016][G] c0rnstar : PANSININ NYO YUNG SC
+[Apr 9 20:58:13 2016][G] i'm Good! : ano status sa mid alde?
+[Apr 9 20:58:14 2016][G] i'm Good! : ano status sa mid alde? 
+[Apr 9 20:58:15 2016][G] i'm Good! : ano status sa mid alde?  
+[Apr 9 20:58:19 2016][G] Ruggedy AMD : binabsag na
+[Apr 9 20:58:22 2016][G] Sumadartson~ : MBBSAG NA ATA
+[Apr 9 20:58:27 2016][G] ''r0k0r0ko" : breaking ng hobbits
+[Apr 9 20:58:34 2016][G] Ruggedy AMD : kinukuha nila alde
+[Apr 9 20:58:34 2016][G] Gestalt Zero : safe ba mag ec?
+[Apr 9 20:58:34 2016][G] Gestalt Zero : safe ba mag ec?
+[Apr 9 20:58:35 2016][G] Sir Breth Colgate` : nakuha ng iba
+[Apr 9 20:58:35 2016][S] The [Nuernberg] castle has been conquered by the [Hobbits] guild.
+[Apr 9 20:58:36 2016][G] MaIdita : 1 mins 30 SEC
+[Apr 9 20:58:37 2016][G] MaIdita : 1 mins 30 SEC
+[Apr 9 20:58:38 2016][G] Sir Breth Colgate` : nakuha ng iba
+[Apr 9 20:58:39 2016][G] Sumadartson~ : GO
+[Apr 9 20:58:39 2016][G] `Donna*** : GB
+[Apr 9 20:58:45 2016][G] Sumadartson~ : EC
+[Apr 9 20:58:46 2016][G] Gestalt Zero : EC
+[Apr 9 20:58:56 2016][G] 'Dark ulinG' : aw
+[Apr 9 20:59:17 2016][G] MaIdita : amp diamon dust
+[Apr 9 20:59:19 2016][G] MaIdita : san un?
+[Apr 9 20:59:19 2016][G] MaIdita : san un?
+[Apr 9 20:59:20 2016][G] Gestalt Zero : takbo breaker
+[Apr 9 20:59:21 2016][G] Gestalt Zero : takbo breaker
+[Apr 9 20:59:23 2016][G] Sir Breth Colgate` : lladle??
+[Apr 9 20:59:24 2016][G] Gestalt Zero : LLALD TO
+[Apr 9 20:59:27 2016][G] [GX] Casper24 : 1mins
+[Apr 9 20:59:55 2016][S] The [Neuschwanstein] castle has been conquered by the [Hobbits] guild.
+[Apr 9 20:59:55 2016][S] The [Hohenschwangau] castle has been conquered by the [Hobbits] guild.
+[Apr 9 20:59:55 2016][S] The [Nuernberg] castle has been conquered by the [Hobbits] guild.
+[Apr 9 20:59:55 2016][S] The [Rothenburg] castle has been conquered by the [Regius] guild.
+[Apr 9 20:59:55 2016][S] The [Arbor of Light] castle has been conquered by the [Swanity] guild.
+[Apr 9 20:59:55 2016][S] The [Shadow of Buddha] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 20:59:55 2016][S] The [Red Palace] castle has been conquered by the [Swanity] guild.
+[Apr 9 20:59:55 2016][S] The [Bamboo Forest Hermitage] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 20:59:57 2016][S] The [Jyolbriger] castle has been conquered by the [pRO New Chaos] guild.
+[Apr 9 20:59:57 2016][S] The [Yssnelf] castle has been conquered by the [Swanity] guild.
+[Apr 9 20:59:57 2016][S] The [Bergell] castle has been conquered by the [pRO New Chaos] guild.
+[Apr 9 20:59:57 2016][S] The [Melcedez] castle has been conquered by the [Ravage Reborn] guild.
+[Apr 9 20:59:57 2016][S] The [Swanhild] castle has been conquered by the [Swanity] guild.
+[Apr 9 20:59:57 2016][S] The [Lazreagues] castle has been conquered by the [pRO New Chaos] guild.
+[Apr 9 20:59:57 2016][S] The [Skoegul] castle has been conquered by the [Swanity] guild.
+[Apr 9 20:59:57 2016][S] The [Kendul] castle has been conquered by the [Desperate Moves] guild.
+[Apr 9 20:59:58 2016][G] Sumadartson~ : gg
+[Apr 9 20:59:59 2016][G] 'Dark ulinG' : aw
+[Apr 9 21:00:03 2016][G] Sir Breth Colgate` : tapos na
+[Apr 9 21:00:03 2016][G] Astro ~ Not : WEW
+[Apr 9 21:00:03 2016][G] Ruggedy AMD : haha
+[Apr 9 21:00:05 2016][G] Ruggedy AMD : ggwp
+[Apr 9 21:00:06 2016][G] MaIdita : may agit?
+[Apr 9 21:00:08 2016][G] Gestalt Zero : la agit
+[Apr 9 21:00:13 2016][G] i'm Good! : wala
+[Apr 9 21:00:19 2016][G] ''r0k0r0ko" : aw gg
+[Apr 9 21:00:21 2016][G] 'Dark ulinG' : ang gagaling natin :D
+[Apr 9 21:00:27 2016][G] `Gerrik : hahaha
+[Apr 9 21:00:33 2016][G] 'Dark ulinG' : may isa sana eh sakto yung EC :D
+[Apr 9 21:00:35 2016][G] [G]Ombel[X] : imba
+[Apr 9 21:00:39 2016][G] Astro ~ Not : HAHAHAHAHAHAHAHAHAHAHHAHAHAHAAHAHHAHAHAHAHAHAH
+[Apr 9 21:00:43 2016][G] Smoke and Mirrors : 21:0 urpay no def
+[Apr 9 21:01:03 2016][G] Gestalt Zero : haha
+[Apr 9 21:01:04 2016][G] Charlotte Dunois : takti nadc ako...
+[Apr 9 21:01:05 2016][K] *** Disconnected due to Break Time: 21:01 to 23:59 ***
+[Apr 16 02:10:59 2016][K] *** Disconnected due to Break Time: 0:00 to 19:00 ***
+[Apr 16 02:11:29 2016][K] *** Disconnected due to Break Time: 0:00 to 19:00 ***
+[Apr 16 02:11:59 2016][K] *** Disconnected due to Break Time: 0:00 to 19:00 ***
+[Apr 16 02:12:29 2016][K] *** Disconnected due to Break Time: 0:00 to 19:00 ***

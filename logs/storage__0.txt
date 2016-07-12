@@ -1,0 +1,585 @@
+---------- Storage Mar 19 23:33:09 2016 -----------
+ 0 Panacea x 534
+ 1 Orcish Voucher x 20692
+ 2 Key of Clock Tower x 154
+ 3 Red Gemstone x 1742
+ 4 Cursed Ruby x 59
+ 5 Yellow Gemstone x 939
+ 6 Mystic Frozen x 33
+ 7 Brigan x 10452
+ 8 Worn Out Page x 4195
+ 9 Needle of Alarm x 7962
+10 Scale Shell x 7122
+11 Iron x 624
+12 Huge Leaf x 8804
+13 Free Ticket for Kafra Transportation x 520
+14 Light Granule x 543
+15 Soft Feather x 4477
+16 Shining Scale x 5995
+17 Great Nature x 138
+18 Ruby x 12
+19 Star Dust x 198
+20 Flame Heart x 130
+21 Star Crumb x 179
+22 Steel x 249
+23 Elder Branch x 5298
+24 Mystic Horn x 6227
+25 Refined Bradium x 363
+26 Withered Flower x 3390
+27 Neuralizer x 1
+28 Bug Leg x 5379
+29 Dragon Scale x 8919
+30 Bradium x 172
+31 Magnifier x 2117
+32 Brown Root x 11004
+33 Sharp Leaf x 11801
+34 Awakening Potion x 203
+35 Pearl x 180
+36 Berserk Potion x 184
+37 Sardonyx x 15
+38 Iron Ore x 276
+39 Rough Elunium x 435
+40 Red Bijou x 789
+41 Green Bijou x 896
+42 Coral Reef x 1831
+43 Reins x 2662
+44 Horrendous Hair x 4361
+45 Emperium Anvil x 1
+46 Concentration Potion x 179
+47 Key of Underground x 128
+48 Armor Piece of Dullahan x 1107
+49 Yggdrasilberry x 232
+50 Green Live x 99
+51 Red Blood x 18
+52 Crystal Blue x 106
+53 2carat Diamond x 9
+54 Cracked Diamond x 69
+55 Gold x 3
+56 Broken Shuriken x 27
+57 Fragment x 43
+58 Moth Wings x 11
+59 Rouge x 1
+60 Sprout x 5
+61 Gill x 631
+62 Masque of Tutankhamen x 1
+63 Bottle Grenade x 1
+64 Cooking Oil x 1
+65 Maneater Root x 251
+66 Nursing Bottle x 1
+67 Plant Bottle x 1
+68 Mole Whiskers x 1
+69 Osiris Doll x 1
+70 3carat Diamond x 15
+71 Scarlet Dyestuffs x 2
+72 Crystal Mirror x 48
+73 Violet Dyestuffs x 1
+74 Black Ladle x 1
+75 Poring Doll x 2
+76 Lemon Dyestuffs x 4
+77 Four Leaf Clover x 3
+78 Racoon Doll x 1
+79 Baphomet Doll x 1
+80 White Dyestuffs x 1
+81 Spore Doll x 1
+82 Emerald x 14
+83 Wedding Bouquet x 1
+84 Rocker Doll x 2
+85 Black Dyestuffs x 1
+86 Puppet x 8
+87 Frozen Rose x 9
+88 China x 1
+89 Red Stocking x 1
+90 Amethyst x 17
+91 Cobaltblue Dyestuffs x 3
+92 Yoyo Doll x 1
+93 Zircon x 2
+94 Red Frame x 2
+95 Treasure Box x 4
+96 Orange Dyestuffs x 1
+97 Garnet x 9
+98 Emperium x 1
+99 1carat Diamond x 6
+100 Sapphire x 8
+101 Feather x 696
+102 Snake Scale x 114
+103 Powder of Butterfly x 55
+104 Fluff x 19
+105 Clover x 30
+106 Zargon x 1608
+107 Solid Shell x 913
+108 Stone Fragment x 62
+109 Stone Heart x 104
+110 Horn of Hillslion x 119
+111 Worm Peeling x 408
+112 Peaked Hat x 148
+113 Fur x 243
+114 Angel Magic Power x 86
+115 Golden Feather x 89
+116 Mantis Scythe x 38
+117 Dragon Canine x 4115
+118 Venom Canine x 42
+119 Old Blue Box x 15
+120 Crushed Pumpkin x 40
+121 White Spider Limb x 119
+122 Single Horn Helm x 105
+123 Small Bradium x 72
+124 Bee Sting x 277
+125 Green Potion x 3
+126 Royal Jelly x 76
+127 Fragment of Darkness x 61
+128 Shining Beads x 182
+129 Tear Gas x 18
+130 Dust Pollutant x 158
+131 Battered Kettle x 1
+132 Insect Feeler x 98
+133 Single Cell x 280
+134 Large Jellopy x 65
+135 Burnt Tree x 5
+136 Dark Crystal Fragment x 29
+137 Jubilee x 156
+138 Old Pick x 37
+139 Mould Powder x 140
+140 Toxic Gas x 72
+141 Counteragent x 1
+142 Used Iron Plate x 120
+143 Handcuffs x 1133
+144 Skull x 19
+145 Harpy Talon x 71
+146 Izidor x 4
+147 Antelope Skin x 16
+148 Harpy Feather x 135
+149 Raccoon Leaf x 39
+150 Rake Horn Helm x 7
+151 Sharp Paper x 10
+152 Dark Mask x 12
+153 Feudal Lord Permit x 1
+154 Worn-out Kimono x 26
+155 Glossy Hair x 41
+156 Poisonous Powder x 60
+157 Poisonous Toad Skin x 7
+158 Tengu Nose x 23
+159 Broken Liquor Jar x 28
+160 Slick Paper x 30
+161 Smoke Powder x 5
+162 Trap x 18
+163 Moth Dust x 29
+164 Rare Rough Runestone x 4
+165 Mystic Rough Runestone x 38
+166 Biotite x 2
+167 Blade Lost in Darkness x 2
+168 Piece of Egg Shell x 41
+169 Twin Horn Helm x 107
+170 Shoot x 77
+171 Bacillus x 130
+172 Scaraba Perfume x 1
+173 Fancy Fairy Wing x 149
+174 Hard Feeler x 154
+175 Soft Blade of Grass x 18
+176 Round Feather x 44
+177 Acorn x 60
+178 Pile Of Acorn x 170
+179 Research Chart x 1476
+180 Nose Ring x 61
+181 Immortal Heart x 102
+182 Rotten Bandage x 228
+183 Beef Head x 1
+184 Memento x 65
+185 Marine Sphere Bottle x 1
+186 Membership Card x 1
+187 Blood Thirst x 238
+188 Solid Iron Piece x 6
+189 Burnt Part x 7
+190 Coconut Fruit x 1
+191 Glass Bead x 2
+192 Nipper x 188
+193 Cyfar x 316
+194 Sea-otter Fur x 105
+195 Clam Shell x 32
+196 Reptile Tongue x 125
+197 Sticky Webfoot x 174
+198 Monster's Feed x 398
+199 Hinalle Leaflet x 145
+200 Rusty Screw x 437
+201 Flexible Tube x 75
+202 Strong Vine x 49
+203 Gun Powder x 20
+204 Lantern x 16
+205 Crystal Fragment x 9
+206 Mushroom Spore x 70
+207 Explosive Powder x 25
+208 Sharp Scale x 2036
+209 Marlin x 10
+210 Garlet x 320
+211 Spawn x 323
+212 Piece of Fish x 18
+213 Maneater Blossom x 71
+214 Wing of Red Bat x 213
+215 Tooth of Bat x 127
+216 Unidentified Mineral x 3
+217 Bill of Birds x 450
+218 Mystic Hydra Ball x 1
+219 Skel-Bone x 2449
+220 Sticky Mucus x 1816
+221 Decayed Nail x 207
+222 Nine Tails x 2
+223 Tentacle x 246
+224 Daenggie x 55
+225 Short Daenggie x 42
+226 Grape x 46
+227 Horrendous Mouth x 215
+228 Cultish Masque x 88
+229 Honey Pot x 2
+230 Broken Sword x 5
+231 Chrysalis x 6
+232 Flower x 3
+233 Jellopy x 23
+234 Antler Helm x 3
+235 Mystic Hydra Ball x 1
+236 Mystic Hydra Ball x 1
+237 Mystic Hydra Ball x 1
+238 Mystic Hydra Ball x 1
+239 Giant Butterfly Wing x 80
+240 Dark Piece x 14
+241 Horseshoe x 41
+242 Jack o' Pumpkin x 62
+243 White Mask x 29
+244 Leaf Bookmark x 13
+245 Rat Tail x 1
+246 Shell x 185
+247 Rotten Meat x 61
+248 White Powder x 40
+249 Beautiful Flower x 2
+250 Dustball x 22
+251 Round Shell x 130
+252 Old White Cloth x 3
+253 Glast Decayed Nail x 22
+254 Glast Horrendous Mouth x 15
+255 Yellow Plate x 183
+256 Detrimindexta x 9
+257 Blue Hair x 143
+258 Claw of Rat x 4
+259 Bookclip in Memory x 39
+260 Old Magicbook x 27
+261 Old Broom x 10
+262 Sand Clump x 30
+263 Fine Sand x 8
+264 Grit x 184
+265 Rune of Darkness x 1
+266 Yoyo Tail x 66
+267 Cacao x 26
+268 Distilled Fighting Spirit x 59
+269 Tendon x 53
+270 Fang x 118
+271 Manacles x 66
+272 Little Evil Horn x 336
+273 Ghost Chill x 1
+274 Yellow Herb x 273
+275 Topaz x 4
+276 Evil Horn x 21
+277 Scell x 278
+278 Wolf Claw x 2
+279 White Herb x 948
+280 Kafra Card x 10
+281 HP Increase Potion(Large) x 413
+282 Burning Horseshoe x 1016
+283 Dragon Tail x 1740
+284 Live Coal x 389
+285 Holy Water x 55
+286 Fin x 303
+287 Blue Herb x 221
+288 Melon x 65
+289 Stem x 30
+290 Flashlight x 1
+291 Pyroxene x 4
+292 Claw of Desert Wolf x 335
+293 Squid Ink x 58
+294 Conch x 13
+295 Witch Starsand x 893
+296 Red Herb x 123
+297 Oil Bottle x 8
+298 Crest Piece x 9
+299 Crest Piece x 14
+300 Crest Piece x 19
+301 Crest Piece x 20
+302 Blood Of Wolf x 15
+303 Burning Hair x 21
+304 Sticky Poison x 27
+305 Drosera Tentacle x 3
+306 Mud Lump x 113
+307 Earthworm Peeling x 19
+308 Wind of Verdure x 13
+309 Alice's Apron x 33
+310 High Energy Crystal x 30
+311 Glacial Heart x 142
+312 Ice Cubic x 99
+313 Tough Scalelike Stem x 100
+314 Silver Bullion x 6
+315 Colorful Brooch x 5
+316 Aquamarine x 34
+317 Temporal Crystal x 21
+318 Hand of God x 1
+319 Fresh Fish x 116
+320 Yggdrasil Leaf x 106
+321 Will of Red Darkness x 3
+322 Ice Piece x 21
+323 Gray Shard x 67
+324 Honey x 153
+325 Mandragora Flowerpot x 3
+326 Animal Gore x 6
+327 Ice Crystal x 26
+328 Cold Ice x 45
+329 Piece of Bamboo x 23
+330 Oil Paper x 36
+331 Bear's Footskin x 11
+332 Turtle Shell x 1
+333 Ogre Tooth x 219
+334 Fish Tail x 97
+335 Detonator x 27
+336 Opal x 7
+337 Mystic Hydra Ball x 1
+338 Mystic Hydra Ball x 1
+339 Savage Meat x 4
+340 Pincher of Beetle x 1
+341 Butterfly Wing x 71
+342 Ancient Lips x 347
+343 Witherless Rose x 19
+344 Green Herb x 437
+345 Cookie Bag x 271
+346 Authoritative Badge x 39
+347 Guyak Pudding x 53
+348 Royal Jelly x 5
+349 Spicy Fried Bao x 3
+350 Ancient Tooth x 55
+351 Special Alloy Trap x 2 -- Not Identified
+352 Chivalry Emblem x 3
+353 Quality Rough Runestone x 199
+354 Tangled Chains x 581
+355 Helm of Dullahan x 274
+356 Pumpkin Lantern x 26
+357 Ectoplasm x 485
+358 Hung Doll x 118
+359 Fabric x 82
+360 Wooden Gnarl x 132
+361 Decomposed Rope x 135
+362 Spool x 143
+363 Broken Needle x 143
+364 Needle Packet x 128
+365 Piece of Black Cloth x 409
+366 Black Powder x 120
+367 Yellow Powder x 2
+368 Black Cat Doll x 1
+369 Striped Sock x 1
+370 Bat Cage x 1
+371 Red Muffler x 654
+372 Stinky Scale x 107
+373 Feather of Birds x 2
+374 Animal Skin x 161
+375 Kitcoin x 10
+376 Clam Flesh x 6
+377 Crab Shell x 8
+378 Mane x 42
+379 Resin x 28
+380 Fine-grained Trunk x 5
+381 Dragon Skin x 3592
+382 Scorpion Claw x 242
+383 Little Evil Wing x 330
+384 Lava x 13
+385 Bravery Badge x 6
+386 Manuk Coin x 15
+387 Splendide Coin x 95
+388 Sapha Certification x 31
+389 Pertz Runestone x 37
+390 Isia Runestone x 41
+391 Verkana Runestone x 73
+392 Old Purple Box x 24
+393 Egg x 37
+394 Nosiege Runestone x 86
+395 SP Increase Potion(Large) x 376
+396 Trans Candy Red x 21
+397 Cobweb x 4
+398 Trunk x 14
+399 Pinafore x 1
+400 Safe to 7 Weapon Certificate x 3
+401 Will of the Darkness x 14
+402 Bloody Rune x 124
+403 Holier Threads x 2
+404 Eden Merit Badge x 14
+405 Rough Wind x 4
+406 Blue Feather x 1
+407 Safe to 7 Body Armor Certificate x 1
+408 Elunium x 35
+409 Burning Heart x 1200
+410 Trans Candy Blue x 10
+411 Glitter Shell x 93
+412 Asir Runestone x 9
+413 Destroyed Armor x 234
+414 Fig Leaf x 4
+415 Tassel x 389
+416 Straw Basket x 102
+417 Red Chile x 27
+418 Hwergelmir's Tonic x 2
+419 Singing Flower x 13
+420 Bitter Herb x 5
+421 Bread x 94
+422 Piece of Cake x 94
+423 Pellet x 8
+424 Yaga's Pestle x 279
+425 Log x 16
+426 Black Bear Skin x 13
+427 Solid Peach x 16
+428 Orange Potion x 179
+429 Strong Branch x 28
+430 Wooden Heart x 14
+431 Claw of Monkey x 4
+432 Shoulder Protector x 13
+433 Poison Herb Scopolia x 4
+434 Thin Trunk x 3
+435 Pineapple x 3
+436 Tough Vines x 3
+437 Singing Plant x 3
+438 Orc's Fang x 173
+439 Karvodailnirol x 6
+440 Yggdrasil Dust x 5
+441 Eye Drops x 1
+442 Crystal of Darkness x 21
+443 Unknown #6691 x 4
+444 Unknown #6696 x 4
+445 Unknown #6694 x 14
+446 Unknown #6693 x 19
+447 Unknown #6695 x 20
+448 Unknown #6689 x 25
+449 Coagulated Spell x 29
+450 Sumptuous Feast x 1
+451 Awfully Bitter Bracer x 1
+452 Whole Roast x 2
+453 Special Royal Jelly Herbal Tea x 2
+454 Assorted Shish Kebob x 1
+455 Soul Haunted Bread x 2
+456 Unknown #6719 x 5
+457 Empty Bottle x 111
+458 Wrapping Lace x 2
+459 Tiger Skin x 1
+460 Poison Spore x 7
+461 Fragment of Rossata Stone x 1
+462 Yellow Butterfly Wing x 6
+463 Red Envelope x 10
+464 Citrin x 4
+465 Level 7 Cookbook x 1
+466 Hinalle x 1
+467 Unknown #6690 x 6
+468 Fluorescent Liquid x 2
+469 Solid Husk x 1
+470 Old Scroll x 1
+471 Antelope Horn x 12
+472 Coal x 3
+473 Ancient Rough Runestone x 1
+474 Undelivered Gift x 1
+475 Old Hilt x 1
+476 Hagalas Runestone x 106
+477 Gold Bullion x 5
+478 Gold Coin Basket x 3
+479 Platinum Bullion x 5
+480 Lucky Soup x 1
+481 Unknown #6715 x 1
+482 Rough Oridecon x 6
+483 Oridecon x 81
+484 Heart of Mermaid x 2
+485 Blank Scroll x 400
+486 Elemental Converter x 172
+487 Elemental Converter x 3
+488 Enrich Celermine Juice x 976
+489 Yggdrasil Seed x 391
+490 Savage BBQ x 600
+491 Silver Arrow Quiver x 410
+492 Horn x 1
+493 Herb of Incantation x 4
+494 Chile Shrimp Gratin x 1
+495 Rhydo Runestone x 13
+496 Strawberry x 1672
+497 Urj Runestone x 6
+498 Fly Wing x 580
+499 Unknown #22537 x 1
+500 Enriched Elunium x 3
+501 Enriched Elunium x 50
+502 Enriched Oridecon x 50
+503 Enriched Oridecon x 28
+504 Lamb Horn x 3
+505 Soft Wool x 10
+506 Fresh Octopus Leg x 6
+507 Fruit Basket x 2
+508 Mora Mandarin x 9
+509 Mysterious Seed x 105
+510 Holy Threads x 1
+511 Stolen Cacao x 1
+512 Peach Cake x 5
+513 Turisus Runestone x 64
+514 Battle Manual X3 x 12
+515 HE Bubble Gum x 24
+516 Blue Gemstone x 1249
+517 Unknown #4924 x 1
+518 Guarana Candy x 94
+519 Meat x 225
+520 Yggdrasilberry x 5
+521 Yggdrasilberry x 3
+522 Milk x 189
+523 Yellow Bijou x 1
+524 Speed Potion x 63
+525 Advanced WoE Supply Box x 1
+526 Advanced WoE Supply Box x 1
+527 Advanced WoE Supply Box x 1
+528 Advanced WoE Supply Box x 1
+529 Condensed White Potion x 350
+530 Condensed White Potion x 50
+531 Chung Hairpin [1] x 1
+532 +4 Rune Circlet [1] x 1
+533 Wind Whisper [1] x 1
+534 +7 Spear [Metaller*4] [4] x 1
+535 +7 Spear [Marina*4] [4] x 1
+536 +7 Spear [Plankton*4] [4] x 1
+537 Laboratory Permit x 1
+538 +7 Magical Weapon (Shadow) x 1
+539 +7 Magical Weapon (Shadow) x 1
+540 +4 Dip Schmidt Helm [1] x 1
+541 Clip [Mimic] [1] x 1
+542 Clip [Mimic] [1] x 1
+543 +7 Rosa Shield [1] x 1
+544 GUSLI x 1
+545 Fairy Wing x 1
+546 +5 Long Horn [1] x 1
+547 Silver Christmas Ring x 1
+548 +4 Ebone Armor [Swordfish] [1] x 1
+549 +9 WoE Plate [1] x 1
+550 Clip [Horong] [1] x 1
+551 Light of El Dicastes x 1
+552 Ur's Seal [HP+300:SP+100:Smokie] [1] x 1
+553 Engraved Armor [1] x 1
+554 +5 Assaulter Spear x 1
+555 Unknown #28310 x 1
+556 Laboratory Permit x 1
+557 +7 Mirror Shield [Cornus] [1] x 1
+558 +4 Buckler [Rafflesia] [1] x 1
+559 Heroic Backpack [1] x 1
+560 Ring of the Ancient Wise King x 1
+561 Unknown #2989 x 1 -- Not Identified
+562 Pendant Of Guardian x 1
+563 Clip [Joker] [1] x 1
+564 Romantic Leaf x 1
+565 Shadow Shield x 1
+566 Loki's Muffler x 1
+567 +7 Physical Weapon (Shadow) x 1
+568 Masquerade x 1
+569 +4 Guard [Penomena] [1] x 1
+570 +4 Rosa Shield [Sky Petite] [1] x 1
+571 +7 Aebecee's Raging Typhoon Armor [INT+3:Karakasa] [1] x 1
+572 Unknown #20743 x 1
+573 +4 Buckler [Orc Warrior] [1] x 1
+574 +7 Rosa Shield [Thara Frog] [1] x 1
+575 +7 Bradium Shield [Bigfoot] [1] x 1
+576 +6 Round Buckler [Teddy Bear] [1] x 1
+577 +7 Bradium Shield [Khalitzburg] [1] x 1
+578 +10 Pike [Hunter Fly*4] [4] x 1
+579 +4 Thanatos Spear [Archer Skeleton] x 1
+580 +9 Vanargand Helm [1] x 1
+
+Capacity: 581/600
+-------------------------------

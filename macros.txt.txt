@@ -1,0 +1,13 @@
+automacro hide { 
+    exclusive 1 
+    run-once 1 
+    spell Guillotine_Fist
+    # check out the right name of the spell in tables/skills.txt 
+    call { 
+        [ 
+        #do eq Clip [Smokie] [1] <-- if you're not stalker/sinx 
+        do ss 51 <-- here you put the number of the skill 
+        release hide 
+        ] 
+    } 
+}  

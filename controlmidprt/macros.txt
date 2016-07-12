@@ -1,0 +1,97 @@
+automacro atmidprtemp {
+location prtg_cas03 14 226 24 216
+	run-once 1
+	priority 1
+	call {
+		#do ss "Play Dead"
+		do pm fusion_lumina $.hour:$.minute midprt no def
+	}
+}
+
+automacro atmidprt {
+location prtg_cas03
+	run-once 1
+	priority 1
+	call {
+		release rest
+
+	}
+}
+
+
+automacro rest {
+location prt_gld 
+	run-once 1
+	priority 1
+	call {
+		do pm fusion_lumina $.hour:$.minute died at midprt
+		release atmidprtemp
+		release atmidprt
+	}
+}
+
+automacro notatroute {
+location not prt_gld
+location not prtg_cas03
+	call {
+		do pm fusion_lumina not at route!!!
+		do relog 600
+	}
+}
+
+automacro checkPlayer {
+	location prtg_cas03
+	timeout 1
+	call {
+		if (@eval(@playersID) > 0) {
+			lock playAlive
+			release playDead
+			release autoScan
+		} else {
+			lock playDead
+			release playAlive
+		}
+	}
+}
+
+automacro autoScan {
+	disabled 1
+	run-once 1
+	timeout 15
+	call scan
+}
+
+macro scan {
+	#$x = @eval("a".","."b")
+	#$list = @eval(@{$::playersList->getItems()})
+	#log $list $x @player(fusion_lumina) @eval($::players{$::playersID[0]})
+	lock checkPlayer
+	$i = 0
+	$j = @eval(@playersID)
+	while ($i < $j) as loop
+		do pm fusion_lumina midprt @eval($::players{$::playersID[$i]}) @eval($::players{$::playersID[$i]}->{guild}{name})
+		$i++
+	end loop
+	release checkPlayer
+
+}
+
+automacro playAlive {
+	disabled 1
+	run-once 1
+	status Play Dead
+	call {
+		do ss 143
+	}
+}
+
+automacro playDead {
+	disabled 1
+	run-once 1
+	status not Play Dead
+	location not prt_gld
+	call {
+		do ss 143
+	}
+}
+

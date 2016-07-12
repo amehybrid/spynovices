@@ -1,0 +1,42 @@
+﻿automacro aturprtemp {
+location prtg_cas05 259 271 269 261
+	run-once 1
+	priority 1
+	call {
+		do ss "Play Dead"
+		do pm fusion_lumina $.hour:$.minute urprt no def
+	}
+}
+
+automacro aturprt {
+location prtg_cas05
+	run-once 1
+	priority 1
+	call {
+		release rest
+
+	}
+}
+
+
+automacro rest {
+location prt_gld 
+	run-once 1
+	priority 1
+	call {
+		do pm fusion_lumina $.hour:$.minute died at urprt
+		release aturprtemp
+		release aturprt
+	}
+}
+
+automacro notatroute {
+location not prt_gld
+location not prtg_cas05
+	call {
+		do pm fusion_lumina not at route!!!
+		do relog 600
+	}
+}
+
+

@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 64
+*.os
+HttpReader.cpp
+RMD128.c
+RMD160.c
+Whirlpool.c
+Benchmark.cpp
+
+END

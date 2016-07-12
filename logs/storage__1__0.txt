@@ -1,0 +1,448 @@
+---------- Storage Dec 24 17:18:20 2015 -----------
+ 0 Novice Butterfly Wing x 20
+ 1 Amulet x 1
+ 2 Free Ticket for Kafra Transportation x 103
+ 3 Sprout x 1
+ 4 Magnifier x 342
+ 5 Panacea x 19
+ 6 Red Gemstone x 48
+ 7 WoE White Potion x 4
+ 8 WoE Blue Potion x 2
+ 9 Worn Out Page x 726
+10 Brigan x 1543
+11 Reins x 146
+12 Fabric x 1
+13 Skel-Bone x 304
+14 Alice's Apron x 119
+15 Bookclip in Memory x 31
+16 Old Magicbook x 3
+17 Cyfar x 2070
+18 Venom Canine x 6
+19 Snake Scale x 17
+20 White Herb x 53
+21 Mushroom Spore x 58
+22 Shell x 18
+23 Dragon Canine x 41
+24 Mantis Scythe x 19
+25 Maneater Blossom x 4
+26 Stem x 37
+27 Chivalry Emblem x 2
+28 Level 3 Lightening Bolt x 1
+29 Fluff x 345
+30 Clover x 1
+31 Rough Oridecon x 72
+32 Feather x 2
+33 Earthworm Peeling x 25
+34 Wing of Dragonfly x 2
+35 Scell x 8
+36 Zargon x 511
+37 Jellopy x 17
+38 Powder of Butterfly x 22
+39 Sticky Mucus x 282
+40 Dragon Scale x 16
+41 Blade Lost in Darkness x 1
+42 Spawn x 8
+43 Chrysalis x 2
+44 Red Herb x 96
+45 Poison Spore x 2
+46 Bug Leg x 310
+47 Worm Peeling x 58
+48 Solid Shell x 152
+49 Strong Vine x 28
+50 Stone Heart x 359
+51 Fur x 127
+52 Refined Bradium x 31
+53 Peaked Hat x 98
+54 Stone Fragment x 204
+55 Witch Starsand x 131
+56 Green Herb x 14
+57 Bradium x 17
+58 Special Alloy Trap x 7 -- Not Identified
+59 3carat Diamond x 2
+60 Carrot x 6
+61 Pumpkin Pie x 6
+62 Union of Tribe x 1
+63 Dragon Tail x 5
+64 Decayed Nail x 1001
+65 Tooth of Bat x 213
+66 Garlet x 103
+67 Horrendous Mouth x 12
+68 Grape x 20
+69 Cursed Ruby x 2
+70 Crystal Mirror x 2
+71 Star Crumb x 3
+72 Flashlight x 2
+73 Ment x 1
+74 Orcish Voucher x 12855
+75 Iron x 355
+76 Large Jellopy x 236
+77 Nursing Bottle x 40
+78 Steel x 37
+79 Pinafore x 16
+80 Strawberry x 3
+81 Authoritative Badge x 4
+82 Pearl x 18
+83 Animal Skin x 20
+84 Tentacle x 9
+85 Wing of Red Bat x 7
+86 Orc's Fang x 1
+87 Yellow Herb x 3
+88 Fang x 1
+89 Rough Elunium x 8
+90 Zenorc's Fang x 1
+91 Orc Claw x 16
+92 Professional Cooking Kit x 4
+93 Level 6 Cookbook x 1
+94 Little Evil Horn x 1
+95 Zircon x 1
+96 Reptile Tongue x 1
+97 Ancient Lips x 1
+98 Awakening Potion x 257
+99 Butterfly Wing x 264
+100 Round Shell x 4
+101 Mould Powder x 80
+102 Skull x 270
+103 Needle of Alarm x 975
+104 Oridecon x 44
+105 Key of Clock Tower x 17
+106 Trunk x 11
+107 Yellow Gemstone x 12
+108 Moth Dust x 48
+109 Key of Underground x 13
+110 Emveretarcon x 5
+111 Hinalle Leaflet x 13
+112 Light Granule x 11
+113 Trap x 9
+114 Lemon x 5
+115 Iron Ore x 8
+116 Phracon x 8
+117 Worn-out Magic Scroll x 3
+118 Torn Magic Book x 1
+119 Level 5 Heal x 2
+120 Red Blood x 2
+121 Claw of Rat x 2
+122 Coral Reef x 2
+123 Burning Horseshoe x 1
+124 Red Chile x 1
+125 Crest Piece x 2
+126 Scorpion Claw x 1
+127 Red Potion x 45
+128 Orange Potion x 60
+129 Yellow potion x 88
+130 Advanced Field Manual x 1
+131 Advanced Field Manual x 1
+132 Firecracker x 75
+133 Aloe Leaflet x 17
+134 Condensed Red Potion x 10
+135 Dead Branch x 5
+136 Bao x 4
+137 Gift Box? x 2
+138 Lemon Dyestuffs x 1
+139 Holy Threads x 1
+140 Alcohol x 8
+141 Animal Gore x 108
+142 Cacao x 7
+143 Sardonyx x 1
+144 Single Cell x 1
+145 Grit x 3
+146 Piece of Fish x 7
+147 Gill x 14
+148 White Spider Limb x 30
+149 Clam Shell x 89
+150 Glass Bead x 1
+151 Shining Beads x 60
+152 Small Bradium x 24
+153 Melon x 1
+154 Sticky Webfoot x 4
+155 Golden Feather x 32
+156 Tough Scalelike Stem x 1
+157 Used Iron Plate x 39
+158 Maneater Root x 1
+159 Old Blue Box x 10
+160 Hydra Ball x 1
+161 Detrimindexta x 3
+162 Handcuffs x 292
+163 Speed Potion x 10
+164 Mystic Hydra Ball x 1
+165 Apple x 1
+166 Nipper x 6
+167 Sharp Scale x 3
+168 Crystal Blue x 2
+169 Huge Leaf x 6
+170 Piece of Egg Shell x 14
+171 Marlin x 3
+172 Sharp Leaf x 10
+173 Brown Root x 10
+174 Twin Horn Helm x 73
+175 Antler Helm x 49
+176 Rake Horn Helm x 39
+177 Single Horn Helm x 39
+178 Research Chart x 304
+179 Flexible Tube x 8
+180 Green Live x 1
+181 Withered Flower x 57
+182 Soft Blade of Grass x 13
+183 Elder Branch x 1
+184 Angel Magic Power x 13
+185 Mora Mandarin x 3
+186 Steel Arrow Quiver x 5
+187 Yam x 7
+188 Pile Of Acorn x 61
+189 Hard Feeler x 32
+190 Acorn x 9
+191 Fancy Fairy Wing x 42
+192 Giant Butterfly Wing x 15
+193 Meat x 7
+194 Concentration Potion x 4
+195 Bee Sting x 5
+196 Jack o' Pumpkin x 1
+197 Horn of Hillslion x 3
+198 Mystic Horn x 3
+199 Condensed White Potion x 4
+200 Yggdrasil Dust x 1
+201 Slapping Herb x 1
+202 Peony Mommy x 1
+203 Snow Flip x 1
+204 Condensed Yellow Potion x 2
+205 Bacillus x 4
+206 Rusty Screw x 7
+207 Karvodailnirol x 4
+208 Dark Piece x 7
+209 Jubilee x 6
+210 Bloody Branch x 5
+211 HE Bubble Gum x 7
+212 Burning Hair x 62
+213 Unknown #6719 x 3
+214 Burning Heart x 106
+215 Mud Lump x 1
+216 Flame Heart x 5
+217 Fly Wing x 748
+218 Dustball x 4
+219 Round Feather x 18
+220 Star Dust x 1
+221 Leaf Bookmark x 6
+222 Dust Pollutant x 3
+223 Wedding Bouquet x 1
+224 Glast Horrendous Mouth x 5
+225 Great Nature x 1
+226 Glast Decayed Nail x 5
+227 Old White Cloth x 8
+228 Temporal Crystal x 8
+229 Coagulated Spell x 10
+230 Crab Shell x 1
+231 Mystic Rough Runestone x 2
+232 Blood Thirst x 38
+233 Memento x 31
+234 Stolen Cacao x 1
+235 Stone of Sage x 1
+236 Empty Bottle x 854
+237 Elunium x 82
+238 Blue Gemstone x 256
+239 Banana x 2
+240 Tear Gas x 1
+241 Explosive Powder x 1
+242 Yoyo Tail x 8
+243 Horn x 1
+244 Membership Card x 1
+245 Holy Water x 189
+246 Harpy Feather x 27
+247 Dark Mask x 1
+248 Broken Shell x 1
+249 Burnt Tree x 1
+250 Izidor x 1
+251 Broken Shuriken x 5
+252 Harpy Talon x 15
+253 Solid Iron Piece x 3
+254 Korean Rice Cake x 400
+255 Condensed White Potion x 50
+256 Toxic Gas x 1
+257 Oil Bottle x 1
+258 Elder Pixie's Moustache x 2
+259 Fragment x 3
+260 Crest Piece x 1
+261 Soft Feather x 5
+262 Eden Merit Badge x 96
+263 Crushed Pumpkin x 18
+264 Thunderproof Potion x 14
+265 Yggdrasil Leaf x 51
+266 Yggdrasilberry x 429
+267 Carnium x 1
+268 Opal x 1
+269 Purified Energy Crystal x 60
+270 High Energy Crystal x 30
+271 Battle Manual X3 x 10
+272 Poison Herb Rantana x 1
+273 Poison Herb Amoena x 1
+274 Glacial Heart x 4
+275 Ice Cubic x 3
+276 Claw of Desert Wolf x 19
+277 Rotten Meat x 2
+278 Blue Herb x 3
+279 Horrendous Hair x 51
+280 Horn Card x 2
+281 Smokie Card x 1
+282 Mastela Fruit x 200
+283 SP Increase Potion(Large) x 40
+284 HP Increase Potion(Large) x 40
+285 Ghost Chill x 1
+286 Old Purple Box x 9
+287 Immortal Heart x 5
+288 Mysterious Seed x 15
+289 Mora Coin x 65
+290 Seagod's Anger x 10
+291 Old Card Album x 5
+292 Condensed White Potion x 26
+293 Job Battle Manual x 6
+294 Manuk Coin x 15
+295 Splendide Coin x 92
+296 Alphoccio Card x 1
+297 Egg x 6
+298 +4 Mitra [1] x 1
+299 St Patrick's Hat [1] x 1 -- Not Identified
+300 Wedding Veil x 1
+301 Fancy Flower x 1
+302 Cigarette x 1
+303 Fancy Flower x 1
+304 +4 Crown of Deceit [1] x 1
+305 Romantic Leaf x 1
+306 Orc Helm x 1
+307 Unicorn Horn x 1
+308 Sailor's Bandana [1] x 1
+309 Morpheus's Hood x 1
+310 Navy Blue Beret x 1
+311 Mr. Scream x 1
+312 Cigarette x 1
+313 Cigarette x 1
+314 Cigarette x 1
+315 Cigarette x 1
+316 Mr. Scream x 1
+317 Fancy Flower x 1
+318 Bongun Hat x 1
+319 Gangster Mask x 1
+320 Cigarette x 1
+321 Loki's Muffler x 1
+322 Cigarette x 1
+323 Nurse Cap x 1
+324 Wedding Veil x 1
+325 Unicorn Horn x 1
+326 +4 Muffler [Isis] [1] x 1
+327 Ribbon [1] x 1
+328 Cigarette x 1
+329 Bunny Band x 1
+330 Sunglasses x 1
+331 Clown Nose x 1
+332 Wizard Hat x 1
+333 Fancy Flower x 1
+334 Blood Admiral's Hat x 1
+335 Bone Helm x 1
+336 Angled Glasses x 1
+337 Poo Poo Hat x 1
+338 Goggles [1] x 1
+339 Angry Snarl x 1
+340 Angry Snarl x 1
+341 Angry Snarl x 1
+342 Angry Snarl x 1
+343 Angry Snarl x 1
+344 Angry Snarl x 1
+345 Angry Snarl x 1
+346 Angry Snarl x 1
+347 Angry Snarl x 1
+348 Angry Snarl x 1
+349 Angry Snarl x 1
+350 Angry Snarl x 1
+351 Angry Snarl x 1
+352 Angry Snarl x 1
+353 Angry Snarl x 1
+354 Angry Snarl x 1
+355 Angry Snarl x 1
+356 Angry Snarl x 1
+357 Angry Snarl x 1
+358 Angry Snarl x 1
+359 Angry Snarl x 1
+360 Angry Snarl x 1
+361 Angry Snarl x 1
+362 Angry Snarl x 1
+363 Angry Snarl x 1
+364 Angry Snarl x 1
+365 Angry Snarl x 1
+366 Cigarette x 1
+367 Cigarette x 1
+368 Cigarette x 1
+369 Cigarette x 1
+370 +4 Gryphon Hat x 1
+371 Magni's Cap x 1
+372 Magni's Cap x 1
+373 +4 Apple of Archer x 1
+374 Alarm Mask x 1
+375 Mr. Scream x 1
+376 Mr. Scream x 1
+377 Mr. Scream x 1
+378 Unicorn Horn x 1
+379 Unicorn Horn x 1
+380 +6 Unicorn Horn x 1
+381 Romantic Leaf x 1
+382 Romantic Leaf x 1
+383 Romantic Leaf x 1
+384 Romantic Leaf x 1
+385 Romantic Leaf x 1
+386 Romantic Leaf x 1
+387 Grampa Beard x 1
+388 Peace Pipe x 1
+389 Bandana x 1
+390 +4 Valkyrie Feather Band [1] x 1
+391 +7 Helm x 1
+392 +4 Helm [1] x 1
+393 St Patrick's Hat [1] x 1
+394 St Patrick's Hat [1] x 1
+395 St Patrick's Hat [1] x 1
+396 Crown of Deceit [1] x 1
+397 Novice False Eggshell x 1
+398 Santa Hat x 1
+399 +4 Apple of Archer x 1
+400 Tulip Hairpin x 1
+401 Fancy Flower x 1
+402 Goggles x 1
+403 Cigarette x 1
+404 Cigarette x 1
+405 Cigarette x 1
+406 Flu Mask x 1
+407 Welding Mask x 1
+408 Poo Poo Hat x 1
+409 Iron Cain x 1
+410 Iron Cain x 1
+411 Iron Cain x 1
+412 Iron Cain x 1
+413 Iron Cain x 1
+414 Iron Cain x 1
+415 Iron Cain x 1
+416 Iron Cain x 1
+417 Iron Cain x 1
+418 Poo Poo Hat x 1
+419 Gas Mask x 1
+420 Zorro Masque x 1
+421 Super Novice Hat [1] x 1
+422 Green Feeler x 1
+423 Costume: Goggles x 1
+424 Geffenia Water Book [1] x 1 -- Not Identified
+425 Red Ether Bag [1] x 1 -- Not Identified
+426 Dance Shoes [1] x 1 -- Not Identified
+427 Telekinetic Orb x 1 -- Not Identified
+428 Vit Glove x 1
+429 Romantic Leaf x 1
+430 Light of El Dicastes x 1
+431 Sunflower x 1
+432 Nut Shell x 1
+433 Nut Shell x 1
+434 Nut Shell x 1
+435 Nut Shell x 1
+436 Nut Shell x 1
+437 +4 Feather Beret x 1
+438 Clip [Smokie] [1] x 1
+439 Creeper Bow [2] x 1 -- Not Identified
+440 Black Wing [1] x 1 -- Not Identified
+441 Enriched Elunium x 3
+442 Enriched Oridecon x 3
+443 Yellow Butterfly Wing x 3
+
+Capacity: 444/600
+-------------------------------

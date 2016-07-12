@@ -1,0 +1,60 @@
+---------- Storage Mar 13 13:57:15 2016 -----------
+ 0 Muscipular Card x 2
+ 1 Rough Elunium x 10
+ 2 Drosera Card x 2
+ 3 Steel Arrow x 4
+ 4 Mandragora Flowerpot x 69
+ 5 Magmaring Card x 2
+ 6 Shining Beads x 2
+ 7 Inside-out Shirt x 19
+ 8 Singing Flower x 1
+ 9 Awakening Potion x 202
+10 Panacea x 1
+11 Hydra Ball x 1
+12 Aloe Leaflet x 127
+13 Butterfly Wing x 28
+14 Strawberry x 906
+15 Yggdrasil Seed x 83
+16 Yggdrasilberry x 37
+17 Battle Manual X3 x 9
+18 Fly Wing x 542
+19 HP Increase Potion(Large) x 57
+20 SP Increase Potion(Large) x 59
+21 Condensed White Potion x 26
+22 Old Blue Box x 1
+23 Speed Potion x 10
+24 Handcuffs x 34
+25 Old Purple Box x 23
+26 Elunium x 14
+27 Research Chart x 34
+28 Fresh Octopus Leg x 12
+29 Egg x 16
+30 Oridecon x 12
+31 Lamb Horn x 3
+32 Blood Thirst x 3
+33 Mushroom Spore x 2
+34 Powder of Butterfly x 1
+35 Poison Spore x 1
+36 Stolen Cacao x 4
+37 Blue Potion x 20
+38 Banana x 4
+39 Grape x 4
+40 Apple x 4
+41 Mystic Rough Runestone x 1
+42 Mysterious Seed x 44
+43 Mora Mandarin x 7
+44 Pom Spider Card x 1
+45 Soft Feather x 5
+46 Round Feather x 3
+47 Glorious Jamadhar x 1
+48 Glorious Bloody Roar x 1
+49 Glorious Bloody Roar x 1
+50 Glorious Bloody Roar x 1
+51 Sunglasses x 1
+52 Glorious Bloody Roar x 1
+53 Geek Glasses x 1
+54 Grampa Beard x 1
+55 Berserk x 1 -- Not Identified
+
+Capacity: 56/600
+-------------------------------

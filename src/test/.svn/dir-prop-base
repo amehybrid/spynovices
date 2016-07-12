@@ -1,0 +1,8 @@
+K 10
+svn:ignore
+V 53
+http-reader-test
+http-reader-test.exe
+consoleui-test
+
+END
